@@ -1,0 +1,994 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tevolution-LocationManager\n"
+"POT-Creation-Date: 2014-03-04 17:57+0530\n"
+"PO-Revision-Date: 2014-03-04 17:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: Templatic <upendra@templatic.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\directory5\\wp-content\\plugins"
+"\\Tevolution-LocationManager\n"
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/bundle_box.php:20
+msgid "Tevolution Location Manager"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/bundle_box.php:24
+msgid ""
+"A directory module from Templatic that helps you to enhance your website "
+"with some brilliant features like showing map, places, sorting places with "
+"the help of map etc. This feature gives you freedom and flexibility to add,"
+"sort and monitor your places from your back-end. "
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/bundle_box.php:29
+msgid "Activate &rarr;"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/bundle_box.php:34
+msgid "Deactivate "
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/bundle_box.php:35
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/location-manager.php:163
+msgid "Settings"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/location-manager.php:26
+msgid "System might facing the problem in include "
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/location-manager.php:86
+#, php-format
+msgid ""
+"You have not activated the base plugin %s. Please activate it to use "
+"Tevolution-LocationManager plugin."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/location-manager.php:159
+msgid "Location Settings"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/location-manager.php:174
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:367
+msgid "Manage Locations"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/templatic_login.php:4
+msgid "Tevolution Update"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/templatic_login.php:84
+msgid ""
+"Templatic Login , enter your templatic credentials to take the updates of "
+"Tevolution-Location manager."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/templatic_login.php:88
+msgid "User Name"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/templatic_login.php:92
+msgid "Password"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/templatic_login.php:97
+msgid "Cancel"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/wp-updates-plugin.php:45
+msgid "There is a new version of Tevolution-Location Manager plugin available "
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/wp-updates-plugin.php:50
+msgid " <a href=\""
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/wp-updates-plugin.php:93
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/wp-updates-plugin.php:97
+msgid "An unknown error occurred"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/googlemap_listing_widget.php:4
+msgid ""
+"Show a map on category pages while operating multiple cities. Use in "
+"category page sidebar and category page - below header areas."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/googlemap_listing_widget.php:5
+msgid "T &rarr; Category Page Map - multi city"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/googlemap_listing_widget.php:122
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:278
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:461
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/map/map-shortcodes/city_map_shortcode.php:325
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/map/map-shortcodes/map-shortcodes.php:81
+msgid "review"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/googlemap_listing_widget.php:122
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:278
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:461
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/map/map-shortcodes/city_map_shortcode.php:325
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/map/map-shortcodes/map-shortcodes.php:81
+msgid "reviews"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/googlemap_listing_widget.php:341
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:161
+msgid ""
+"Map Height: <small>(Default is 500px. To change enter a numeric value.)</"
+"small>"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/googlemap_listing_widget.php:348
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:169
+msgid "Disable Clustering"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:9
+msgid ""
+"Display a Google map with custom icons and marker clusters while operating "
+"multiple cities. Widget works best inside the Homepage Slider or Homepage - "
+"Main Content area."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:10
+msgid "T &rarr; Homepage Map - multi city"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:9
+msgid "City Wise Logs"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:10
+msgid "Back to city logs"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:24
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:368
+msgid "City Logs"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:26
+msgid ""
+"Use this section to see how many times was each of your cities visited. This "
+"is useful in determining which is your most popular city."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:92
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:237
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1266
+msgid "City Name"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:93
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:675
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1127
+msgid "State Name"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:94
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:498
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:677
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1024
+msgid "Country Name"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:95
+msgid "Total Count"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:96
+msgid "Views"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:238
+msgid "IP Address"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_city_logs.php:239
+msgid "Counter"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:161
+msgid "Imported your MultiCity Csv file successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:200
+msgid "Drop MultiCity entries successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:213
+msgid "CSV City Import"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:216
+msgid ""
+"Directly upload all the content of your cities here and check under wp-admin "
+"-&gt; Tevolution -&gt; Manage Locations -&gt; Cities. This will help you "
+"reduce the manual work of adding each city individually.<br><strong>Tip:</"
+"strong> You can directly add/delete your cities their in csv file itself and "
+"then upload here, it will save your time."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:218
+msgid ""
+"If you want to import cities from GeoPlaces4 to Tevolution-LocationManager "
+"plugin with same City ID then"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:220
+msgid "Click Here"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:222
+msgid ""
+"to drop the current city entries and then import the city CSV exported from "
+"your GeoPlaces site here. "
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:223
+msgid "Upload your CSV file"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:227
+msgid "Import csv"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:229
+#, php-format
+msgid ""
+"Download the <a href=\"%s\">sample CSV file</a> to see the correct structure "
+"of the Multicity.csv file. To use bulk upload with custom fields simply add "
+"them as new columns inside your .csv file at last(at the end). "
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:236
+msgid "CSV City Export"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:239
+msgid ""
+"Directly download all the city from here and save it on your hard drive."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:240
+msgid "Export City CSV file"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:243
+msgid "Export TO csv"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:257
+msgid "Map Settings"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:260
+msgid "Show pinpoint option"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:265
+#, php-format
+msgid ""
+"Pinpoint button allows you to focus the map on a specific entry. It will "
+"only work with the map listing widget so make sure you uncheck \"Show Map "
+"View\" in %s"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:269
+msgid "Pinpoint button activates on"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:271
+msgid "Mouse hover"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:273
+#, php-format
+msgid ""
+"\"Mouse hover\" option will not work if you have \"Show map view in category "
+"pages\" option enabled in %s"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:289
+msgid "Enable distance-aware related posts for"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:300
+#, php-format
+msgid ""
+" No custom post type has been created at your site yet. Please <a href=\"?"
+"page=%s\"> create it </a> to list it here."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:304
+msgid ""
+"When this option is enabled, related posts will only show if within the "
+"distance you set below. The distance is relative to the post currently "
+"visited."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:308
+msgid "Set the distance"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:311
+msgid "1 mile"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:312
+msgid "5 miles"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:313
+msgid "10 miles"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:314
+msgid "100 miles"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:315
+msgid "1000 miles"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:316
+msgid "5000 miles"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:318
+msgid ""
+"Specify the distance from which related posts will be pulled. This option is "
+"functional only if you enabled distance-aware functionality for your post "
+"type."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:357
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:360
+msgid "Location"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:605
+msgid "Change City Base"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:609
+msgid "(city-base)"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:336
+msgid "Location setting fields per page"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:349
+msgid "Locations"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:350
+msgid ""
+"Using this section you will be able to define country, states and cities "
+"which can then be used to filter content on your site. Posts, listings or "
+"events added for one city will not show for other cities. Read more about "
+"<strong>how to manage cities <a href=\"http://templatic.com/docs/directory-"
+"theme-guide/#multiplecities\">here</a></strong>."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:425
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:465
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:468
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:562
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:566
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1215
+msgid "Select Country"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:429
+msgid "Please select country name"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:434
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:484
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:486
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:580
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:583
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1466
+msgid "Select State"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:438
+msgid "Please select state name"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:443
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:506
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:508
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:604
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1482
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1511
+msgid "Select City"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:447
+msgid "Please select city name"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:601
+msgid "Select MultiCity"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:1136
+msgid "Please wait, We are taking you to your nearest city."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:72
+msgid "Please select any post type."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:101
+msgid "Location of the city selection box"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:102
+msgid "Above header (dropdowns)"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:103
+msgid "Left edge of the site"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:104
+msgid "Above header (lists)"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:105
+msgid ""
+"Shows a location selection box on your site from where your users can select "
+"country/state/city."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:152
+msgid "Record updated successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:172
+msgid "Homepage Displays"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:174
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:851
+msgid "Default City"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:175
+msgid "Ask To Show Nearest City"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:176
+msgid "Nearest City"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:177
+msgid ""
+"When this option is selected all visitors will be taken to the default city"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:178
+msgid ""
+"When this option is selected all visitors will be taken to the city closest "
+"to them (without confirming it first)."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:179
+msgid ""
+"Upon visiting the site visitors will be asked whether they want to share "
+"their location. If they confirm they will be taken to the nearest city. If "
+"they refuse the default city will open."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:183
+msgid "Activate location management for"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:205
+msgid "Submit"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:229
+msgid "Countries"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:230
+msgid "States"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:231
+msgid "Cities"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:267
+msgid "Add a Country"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:268
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:275
+msgid "Back to countries list"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:274
+msgid "Edit Country"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:281
+msgid "Manage Countries"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:282
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:411
+msgid "Add a field for country"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:282
+msgid "Add new country"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:284
+msgid ""
+"Add and manage your country details from this section. To add new country, "
+"use above add link.<br> This section helps your user to select between all "
+"the countries available on your site."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:288
+msgid "Country created successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:290
+msgid "Country updated successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:292
+msgid "Country deleted  successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:294
+msgid "Country enable successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:296
+msgid "Country disable successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:331
+msgid "Add a State"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:332
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:339
+msgid "Back to states list"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:338
+msgid "Edit State"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:346
+msgid "Manage States"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:347
+msgid "Add a field for state"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:347
+msgid "Add new State"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:349
+msgid ""
+"Add and manage your state details from this section. You can add new states "
+"using above add link.<br> These states will be listed in the dropdown "
+"according to the country selected by your user."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:352
+msgid "State created successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:354
+msgid "State updated successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:356
+msgid "State deleted  successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:392
+msgid "Add a city"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:393
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:401
+msgid "Back to city list"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:395
+msgid ""
+"Adequate information will lead to accurate results and map. So, please enter "
+"all information accordingly."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:400
+msgid "Edit city"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:403
+msgid "For accurate results, please enter the adequate information."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:410
+msgid "Manage Cities"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:411
+msgid "Add new city"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:413
+msgid ""
+"<b>Important note:</b> Cities will appear in front-end city selection box "
+"only after you add some listings/events to them. <br/><br/>"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:417
+msgid ""
+"City created successfully. Until you do not create any post for this "
+"particular city, it will not appear in a navigation strip for selection."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:419
+msgid "City updated successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:421
+msgid "City deleted  successfully."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:499
+msgid "Country Flag"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:500
+msgid "ISO Code2"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:501
+msgid "ISO Code3"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:503
+msgid "Active"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:504
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:678
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1057
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1390
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1418
+msgid "Browse"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:676
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1133
+msgid "State Code"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:876
+msgid "City"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:877
+msgid "Located In"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:878
+msgid "Map Type"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:879
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1306
+msgid "Post Type"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:880
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1045
+msgid "Message"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:881
+msgid "Scaling Factor"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:948
+msgid "Delete"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:950
+msgid "City ID:"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:951
+msgid "Edit"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:953
+msgid "Set Default"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1027
+msgid "Write the country name."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1031
+msgid "ISO Code 2"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1034
+msgid ""
+"Write the two letter country code here <br>(e.g. \"US\" for United States of "
+"America. You can find these codes from <a href =\"http://en.wikipedia.org/"
+"wiki/ISO_3166-1#Current_codes\" target=\"_blank\"> here </a> )"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1038
+msgid "ISO Code 3"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1041
+msgid ""
+"Write the three letter country code here <br>(e.g. \"USA\" for United States "
+"of America. You can find these codes from <a href =\"http://en.wikipedia.org/"
+"wiki/ISO_3166-1#Current_codes\" target=\"_blank\"> here </a> )"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1048
+msgid "Write the country message here to display it on your site."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1052
+msgid "Country flag"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1055
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1388
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1416
+msgid "Or"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1059
+msgid ""
+"Upload flag image for above mentioned country. It will appear on your site "
+"along with the country name."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1064
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1141
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1425
+msgid "Save all changes"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1114
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1211
+msgid "Country"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1118
+msgid "Select Country Name"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1129
+msgid "Write the state name that falls in the above selected country"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1135
+msgid "Write the zone code of the above mentioned state"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1223
+msgid "State/region"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1226
+msgid "Select state"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1238
+msgid "Map type"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1240
+msgid "  Road Map"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1241
+msgid "Terrain Map"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1243
+msgid "Satellite Map"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1245
+msgid "Hybrid  Map"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1247
+msgid "Select any of the above type for your map"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1252
+msgid "Map scaling factor"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1262
+msgid ""
+"Define the zoom level of the map here.<br/> Its Min. value is 1 and Max. "
+"Value is 19. The recommended level is 13"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1271
+msgid "Set Address on Map"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1288
+msgid "City latitude"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1292
+msgid "City longitude"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1296
+msgid "Map display"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1299
+msgid "According to Map Scaling factor"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1301
+msgid "Fit all available listings"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1302
+msgid ""
+"Select whether you want to display map as per Map scaling factor you have "
+"set above or adjust the scaling factor<br/> automatically so that all "
+"available listings appear on the map."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1322
+msgid ""
+"Selected post type will be displayed on home page map. <br> <b>Note:</b> "
+"Make sure about its category selection in the below given &quot;"
+"Categories&quot; option"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1327
+msgid "Categories"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1358
+msgid ""
+"Select the categories for which this field should appear in on the place or "
+"event submission form."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1362
+msgid "City Message"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1365
+msgid ""
+"Write a description of the city that you would like to display on your site."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1369
+msgid "Background Color"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1381
+msgid ""
+"choose a background color for this city. <br> <b>Tip:</b>You can define a "
+"color that represents the particular city to add an advantage to recognize "
+"the cities on your site."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1385
+msgid "Background Image"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1390
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1418
+msgid ""
+"<span style=\"color:red; font-weight:bold;\">NOTE:</span> Insert the image "
+"into post after uploading it."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1392
+msgid ""
+"Upload image to display it as a background image for this city. Ideal width "
+"size for it is <b>1900 pixels</b>."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1397
+msgid "Header Background Color"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1409
+msgid ""
+"choose a header background color for this city. <br> <b>Tip:</b>You can "
+"define a color that represents the particular city to add an advantage to "
+"recognize the cities on your site."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1413
+msgid "Header Upload Image"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1420
+msgid ""
+"Upload image to display it as a header background image for this city.Ideal "
+"width size for it is 1240 pixels and keep the height upto 240px."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1478
+msgid "States not available"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1522
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1541
+msgid "City not available"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1581
+msgid "Select All"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1681
+#, php-format
+msgid "There is no categories in %s"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/widget_functions.php:15
+msgid ""
+"Displays a dropdown for selecting a country, state and city. Use the widget "
+"only once per page. Works best in sidebar areas."
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/widget_functions.php:16
+msgid "T &rarr; Select a City"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/widget_functions.php:20
+msgid "Multicity"
+msgstr ""
+
+#: D:\wamp\www\directory5\wp-content\plugins\Tevolution-LocationManager/functions/widget_functions.php:150
+msgid "Widget Title"
+msgstr ""

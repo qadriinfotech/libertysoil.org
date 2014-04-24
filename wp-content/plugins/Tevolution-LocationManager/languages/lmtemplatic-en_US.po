@@ -1,0 +1,1191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tevolution - LocationManager v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-08 10:56:30+0000\n"
+"Last-Translator: admin <upendra@templatic.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: bundle_box.php:20
+#@ lmtemplatic
+msgid "Tevolution Location Manager"
+msgstr ""
+
+#: bundle_box.php:24
+#@ lmtemplatic
+msgid "A directory module from Templatic that helps you to enhance your website with some brilliant features like showing map, places, sorting places with the help of map etc. This feature gives you freedom and flexibility to add,sort and monitor your places from your back-end. "
+msgstr ""
+
+#: bundle_box.php:29
+#@ lmtemplatic
+msgid "Activate &rarr;"
+msgstr ""
+
+#: bundle_box.php:34
+#@ lmtemplatic
+msgid "Deactivate "
+msgstr ""
+
+#: bundle_box.php:35
+#: location-manager.php:169
+#@ lmtemplatic
+msgid "Settings"
+msgstr ""
+
+#: functions/google_map_widget.php:9
+#@ lmtemplatic
+msgid "Display a Google map with custom icons and marker clusters while operating multiple cities. Widget works best inside the Homepage Slider or Homepage - Main Content area."
+msgstr ""
+
+#: functions/google_map_widget.php:10
+#@ lmtemplatic
+msgid "T &rarr; Homepage Map - multi city"
+msgstr ""
+
+#: functions/google_map_widget.php:89
+#: functions/map/map-shortcodes/city_map_shortcode.php:138
+#@ lmtemplatic
+msgid "<p>Your selected category do not have any records yet at your current location.</p>"
+msgstr ""
+
+#: functions/google_map_widget.php:93
+#@ lmtemplatic
+msgid "Title or Keyword"
+msgstr ""
+
+#: functions/google_map_widget.php:161
+#: functions/googlemap_listing_widget.php:341
+#@ lmtemplatic
+msgid "Map Height: <small>(Default is 500px. To change enter a numeric value.)</small>"
+msgstr ""
+
+#: functions/google_map_widget.php:169
+#: functions/googlemap_listing_widget.php:348
+#@ lmtemplatic
+msgid "Disable Clustering"
+msgstr ""
+
+#: functions/google_map_widget.php:281
+#: functions/google_map_widget.php:472
+#: functions/googlemap_listing_widget.php:122
+#: functions/map/map-shortcodes/city_map_shortcode.php:328
+#: functions/map/map-shortcodes/map-shortcodes.php:81
+#@ lmtemplatic
+msgid "review"
+msgstr ""
+
+#: functions/google_map_widget.php:281
+#: functions/google_map_widget.php:472
+#: functions/googlemap_listing_widget.php:122
+#: functions/map/map-shortcodes/city_map_shortcode.php:328
+#: functions/map/map-shortcodes/map-shortcodes.php:81
+#@ lmtemplatic
+msgid "reviews"
+msgstr ""
+
+#: functions/googlemap_listing_widget.php:4
+#@ lmtemplatic
+msgid "Show a map on category pages while operating multiple cities. Use in category page sidebar and category page - below header areas."
+msgstr ""
+
+#: functions/googlemap_listing_widget.php:5
+#@ lmtemplatic
+msgid "T &rarr; Category Page Map - multi city"
+msgstr ""
+
+#: functions/location_city_logs.php:9
+#@ lmtemplatic
+msgid "City Wise Logs"
+msgstr ""
+
+#: functions/location_city_logs.php:10
+#@ lmtemplatic
+msgid "Back to city logs"
+msgstr ""
+
+#: functions/location_city_logs.php:24
+#: functions/manage_function.php:368
+#@ lmtemplatic
+msgid "City Logs"
+msgstr ""
+
+#: functions/location_city_logs.php:26
+#@ lmtemplatic
+msgid "Use this section to see how many times was each of your cities visited. This is useful in determining which is your most popular city."
+msgstr ""
+
+#: functions/location_city_logs.php:92
+#: functions/location_city_logs.php:237
+#: functions/manage_locations.php:1269
+#@ lmtemplatic
+msgid "City Name"
+msgstr ""
+
+#: functions/location_city_logs.php:93
+#: functions/manage_locations.php:678
+#: functions/manage_locations.php:1130
+#@ lmtemplatic
+msgid "State Name"
+msgstr ""
+
+#: functions/location_city_logs.php:94
+#: functions/manage_locations.php:501
+#: functions/manage_locations.php:680
+#: functions/manage_locations.php:1027
+#@ lmtemplatic
+msgid "Country Name"
+msgstr ""
+
+#: functions/location_city_logs.php:95
+#@ lmtemplatic
+msgid "Total Count"
+msgstr ""
+
+#: functions/location_city_logs.php:96
+#@ lmtemplatic
+msgid "Views"
+msgstr ""
+
+#: functions/location_city_logs.php:238
+#@ lmtemplatic
+msgid "IP Address"
+msgstr ""
+
+#: functions/location_city_logs.php:239
+#@ lmtemplatic
+msgid "Counter"
+msgstr ""
+
+#: functions/location_functions.php:161
+#@ lmtemplatic
+msgid "Imported your MultiCity Csv file successfully."
+msgstr ""
+
+#: functions/location_functions.php:200
+#@ lmtemplatic
+msgid "Drop MultiCity entries successfully."
+msgstr ""
+
+#: functions/location_functions.php:213
+#@ lmtemplatic
+msgid "CSV City Import"
+msgstr ""
+
+#: functions/location_functions.php:216
+#@ lmtemplatic
+msgid "Directly upload all the content of your cities here and check under wp-admin -&gt; Tevolution -&gt; Manage Locations -&gt; Cities. This will help you reduce the manual work of adding each city individually.<br><strong>Tip:</strong> You can directly add/delete your cities their in csv file itself and then upload here, it will save your time."
+msgstr ""
+
+#: functions/location_functions.php:218
+#@ lmtemplatic
+msgid "If you want to import cities from GeoPlaces4 to Tevolution-LocationManager plugin with same City ID then"
+msgstr ""
+
+#: functions/location_functions.php:220
+#@ lmtemplatic
+msgid "Click Here"
+msgstr ""
+
+#: functions/location_functions.php:222
+#@ lmtemplatic
+msgid "to drop the current city entries and then import the city CSV exported from your GeoPlaces site here. "
+msgstr ""
+
+#: functions/location_functions.php:223
+#@ lmtemplatic
+msgid "Upload your CSV file"
+msgstr ""
+
+#: functions/location_functions.php:227
+#@ lmtemplatic
+msgid "Import csv"
+msgstr ""
+
+#: functions/location_functions.php:229
+#, php-format
+#@ lmtemplatic
+msgid "Download the <a href=\"%s\">sample CSV file</a> to see the correct structure of the Multicity.csv file. To use bulk upload with custom fields simply add them as new columns inside your .csv file at last(at the end). "
+msgstr ""
+
+#: functions/location_functions.php:236
+#@ lmtemplatic
+msgid "CSV City Export"
+msgstr ""
+
+#: functions/location_functions.php:239
+#@ lmtemplatic
+msgid "Directly download all the city from here and save it on your hard drive."
+msgstr ""
+
+#: functions/location_functions.php:240
+#@ lmtemplatic
+msgid "Export City CSV file"
+msgstr ""
+
+#: functions/location_functions.php:243
+#@ lmtemplatic
+msgid "Export TO csv"
+msgstr ""
+
+#: functions/location_functions.php:257
+#@ lmtemplatic
+msgid "Map Settings"
+msgstr ""
+
+#: functions/location_functions.php:260
+#@ lmtemplatic
+msgid "Show pinpoint option"
+msgstr ""
+
+#: functions/location_functions.php:263
+#@ lmtemplatic
+msgid "Disable"
+msgstr ""
+
+#: functions/location_functions.php:265
+#, php-format
+#@ lmtemplatic
+msgid "Pinpoint button allows you to focus the map on a specific entry. It will only work with the map listing widget so make sure you uncheck \"Show Map View\" in %s"
+msgstr ""
+
+#: functions/location_functions.php:269
+#@ lmtemplatic
+msgid "Pinpoint button activates on"
+msgstr ""
+
+#: functions/location_functions.php:271
+#@ lmtemplatic
+msgid "Mouse hover"
+msgstr ""
+
+#: functions/location_functions.php:272
+#@ lmtemplatic
+msgid "Click"
+msgstr ""
+
+#: functions/location_functions.php:273
+#, php-format
+#@ lmtemplatic
+msgid "\"Mouse hover\" option will not work if you have \"Show map view in category pages\" option enabled in %s"
+msgstr ""
+
+#: functions/location_functions.php:289
+#@ lmtemplatic
+msgid "Enable distance-aware related posts for"
+msgstr ""
+
+#: functions/location_functions.php:300
+#, php-format
+#@ lmtemplatic
+msgid " No custom post type has been created at your site yet. Please <a href=\"?page=%s\"> create it </a> to list it here."
+msgstr ""
+
+#: functions/location_functions.php:304
+#@ lmtemplatic
+msgid "When this option is enabled, related posts will only show if within the distance you set below. The distance is relative to the post currently visited."
+msgstr ""
+
+#: functions/location_functions.php:308
+#@ lmtemplatic
+msgid "Set the distance"
+msgstr ""
+
+#: functions/location_functions.php:311
+#@ lmtemplatic
+msgid "1 mile"
+msgstr ""
+
+#: functions/location_functions.php:312
+#@ lmtemplatic
+msgid "5 miles"
+msgstr ""
+
+#: functions/location_functions.php:313
+#@ lmtemplatic
+msgid "10 miles"
+msgstr ""
+
+#: functions/location_functions.php:314
+#@ lmtemplatic
+msgid "100 miles"
+msgstr ""
+
+#: functions/location_functions.php:315
+#@ lmtemplatic
+msgid "1000 miles"
+msgstr ""
+
+#: functions/location_functions.php:316
+#@ lmtemplatic
+msgid "5000 miles"
+msgstr ""
+
+#: functions/location_functions.php:318
+#@ lmtemplatic
+msgid "Specify the distance from which related posts will be pulled. This option is functional only if you enabled distance-aware functionality for your post type."
+msgstr ""
+
+#: functions/location_functions.php:357
+#: functions/location_functions.php:360
+#: functions/manage_function.php:810
+#: functions/manage_function.php:929
+#: functions/manage_function.php:1109
+#@ lmtemplatic
+msgid "Location"
+msgstr ""
+
+#: functions/location_functions.php:451
+#@ lmtemplatic
+msgid "Select a city"
+msgstr ""
+
+#: functions/location_functions.php:605
+#@ lmtemplatic
+msgid "Change City Base"
+msgstr ""
+
+#: functions/location_functions.php:609
+#@ lmtemplatic
+msgid "(city-base)"
+msgstr ""
+
+#: functions/manage_function.php:25
+#: functions/manage_locations.php:177
+#: functions/manage_locations.php:854
+#@ lmtemplatic
+msgid "Default City"
+msgstr ""
+
+#: functions/manage_function.php:336
+#@ lmtemplatic
+msgid "Location setting fields per page"
+msgstr ""
+
+#: functions/manage_function.php:349
+#@ lmtemplatic
+msgid "Locations"
+msgstr ""
+
+#: functions/manage_function.php:350
+#@ lmtemplatic
+msgid "Using this section you will be able to define country, states and cities which can then be used to filter content on your site. Posts, listings or events added for one city will not show for other cities. Read more about <strong>how to manage cities <a href=\"http://templatic.com/docs/directory-theme-guide/#multiplecities\">here</a></strong>."
+msgstr ""
+
+#: functions/manage_function.php:367
+#: location-manager.php:180
+#@ lmtemplatic
+msgid "Manage Locations"
+msgstr ""
+
+#: functions/manage_function.php:394
+#@ lmtemplatic
+msgid "Multi City"
+msgstr ""
+
+#: functions/manage_function.php:425
+#: functions/manage_function.php:465
+#: functions/manage_function.php:468
+#: functions/manage_function.php:562
+#: functions/manage_function.php:566
+#: functions/manage_function.php:646
+#: functions/manage_function.php:816
+#: functions/manage_function.php:935
+#: functions/manage_locations.php:1218
+#: functions/widget_functions.php:96
+#@ lmtemplatic
+msgid "Select Country"
+msgstr ""
+
+#: functions/manage_function.php:429
+#@ lmtemplatic
+msgid "Please select country name"
+msgstr ""
+
+#: functions/manage_function.php:434
+#: functions/manage_function.php:484
+#: functions/manage_function.php:486
+#: functions/manage_function.php:580
+#: functions/manage_function.php:583
+#: functions/manage_locations.php:1472
+#@ lmtemplatic
+msgid "Select State"
+msgstr ""
+
+#: functions/manage_function.php:438
+#@ lmtemplatic
+msgid "Please select state name"
+msgstr ""
+
+#: functions/manage_function.php:443
+#: functions/manage_function.php:506
+#: functions/manage_function.php:508
+#: functions/manage_function.php:604
+#: functions/manage_locations.php:1488
+#: functions/manage_locations.php:1520
+#@ lmtemplatic
+msgid "Select City"
+msgstr ""
+
+#: functions/manage_function.php:447
+#@ lmtemplatic
+msgid "Please select city name"
+msgstr ""
+
+#: functions/manage_function.php:601
+#@ lmtemplatic
+msgid "Select MultiCity"
+msgstr ""
+
+#: functions/manage_function.php:661
+#: functions/manage_function.php:831
+#: functions/manage_function.php:949
+#: functions/widget_functions.php:110
+#@ lmtemplatic
+msgid "All Regions"
+msgstr ""
+
+#: functions/manage_function.php:679
+#: functions/manage_function.php:846
+#: functions/manage_function.php:964
+#: functions/widget_functions.php:125
+#@ lmtemplatic
+msgid "All Cities"
+msgstr ""
+
+#: functions/manage_function.php:861
+#: functions/manage_function.php:979
+#: functions/manage_function.php:1023
+#@ lmtemplatic
+msgid "My Nearest City"
+msgstr ""
+
+#: functions/manage_function.php:1111
+#@ lmtemplatic
+msgid "Loading..."
+msgstr ""
+
+#: functions/manage_function.php:1138
+#@ lmtemplatic
+msgid "Please wait, We are taking you to your nearest city."
+msgstr ""
+
+#: functions/manage_function.php:1238
+#@ lmtemplatic
+msgid "City Base In Category Pages"
+msgstr ""
+
+#: functions/manage_function.php:1239
+#@ lmtemplatic
+msgid "Enable"
+msgstr ""
+
+#: functions/manage_function.php:1240
+#@ lmtemplatic
+msgid "Enabling this will include the city slug and city name inside category URLs, allowing you to link to a category inside a specific city.<br/> <strong>Do not enable this</strong> if your site has already been indexed by Google as those old links will lead to a 404 page."
+msgstr ""
+
+#: functions/manage_locations.php:75
+#@ lmtemplatic
+msgid "Please select any post type."
+msgstr ""
+
+#: functions/manage_locations.php:104
+#@ lmtemplatic
+msgid "Location of the city selection box"
+msgstr ""
+
+#: functions/manage_locations.php:105
+#@ lm-templatic-admin
+msgid "Above header (dropdowns)"
+msgstr "Translate - Above header (dropdowns)"
+
+#: functions/manage_locations.php:106
+#@ lmtemplatic
+msgid "Left edge of the site"
+msgstr ""
+
+#: functions/manage_locations.php:107
+#@ lmtemplatic
+msgid "Above header (lists)"
+msgstr ""
+
+#: functions/manage_locations.php:108
+#@ lmtemplatic
+msgid "Shows a location selection box on your site from where your users can select country/state/city."
+msgstr ""
+
+#: functions/manage_locations.php:155
+#@ lmtemplatic
+msgid "Record updated successfully."
+msgstr ""
+
+#: functions/manage_locations.php:175
+#@ lmtemplatic
+msgid "Homepage Displays"
+msgstr ""
+
+#: functions/manage_locations.php:178
+#@ lmtemplatic
+msgid "Ask To Show Nearest City"
+msgstr ""
+
+#: functions/manage_locations.php:179
+#@ lmtemplatic
+msgid "Nearest City"
+msgstr ""
+
+#: functions/manage_locations.php:180
+#@ lmtemplatic
+msgid "When this option is selected all visitors will be taken to the default city"
+msgstr ""
+
+#: functions/manage_locations.php:181
+#@ lmtemplatic
+msgid "When this option is selected all visitors will be taken to the city closest to them (without confirming it first)."
+msgstr ""
+
+#: functions/manage_locations.php:182
+#@ lmtemplatic
+msgid "Upon visiting the site visitors will be asked whether they want to share their location. If they confirm they will be taken to the nearest city. If they refuse the default city will open."
+msgstr ""
+
+#: functions/manage_locations.php:186
+#@ lmtemplatic
+msgid "Activate location management for"
+msgstr ""
+
+#: functions/manage_locations.php:208
+#@ lmtemplatic
+msgid "Submit"
+msgstr ""
+
+#: functions/manage_locations.php:232
+#@ lmtemplatic
+msgid "Countries"
+msgstr ""
+
+#: functions/manage_locations.php:233
+#@ lmtemplatic
+msgid "States"
+msgstr ""
+
+#: functions/manage_locations.php:234
+#@ lmtemplatic
+msgid "Cities"
+msgstr ""
+
+#: functions/manage_locations.php:270
+#@ lmtemplatic
+msgid "Add a Country"
+msgstr ""
+
+#: functions/manage_locations.php:271
+#: functions/manage_locations.php:278
+#@ lmtemplatic
+msgid "Back to countries list"
+msgstr ""
+
+#: functions/manage_locations.php:277
+#@ lmtemplatic
+msgid "Edit Country"
+msgstr ""
+
+#: functions/manage_locations.php:284
+#@ lmtemplatic
+msgid "Manage Countries"
+msgstr ""
+
+#: functions/manage_locations.php:285
+#: functions/manage_locations.php:414
+#@ lmtemplatic
+msgid "Add a field for country"
+msgstr ""
+
+#: functions/manage_locations.php:285
+#@ lmtemplatic
+msgid "Add new country"
+msgstr ""
+
+#: functions/manage_locations.php:287
+#@ lmtemplatic
+msgid "Add and manage your country details from this section. To add new country, use above add link.<br> This section helps your user to select between all the countries available on your site."
+msgstr ""
+
+#: functions/manage_locations.php:291
+#@ lmtemplatic
+msgid "Country created successfully."
+msgstr ""
+
+#: functions/manage_locations.php:293
+#@ lmtemplatic
+msgid "Country updated successfully."
+msgstr ""
+
+#: functions/manage_locations.php:295
+#@ lmtemplatic
+msgid "Country deleted  successfully."
+msgstr ""
+
+#: functions/manage_locations.php:297
+#@ lmtemplatic
+msgid "Country enable successfully."
+msgstr ""
+
+#: functions/manage_locations.php:299
+#@ lmtemplatic
+msgid "Country disable successfully."
+msgstr ""
+
+#: functions/manage_locations.php:334
+#@ lmtemplatic
+msgid "Add a State"
+msgstr ""
+
+#: functions/manage_locations.php:335
+#: functions/manage_locations.php:342
+#@ lmtemplatic
+msgid "Back to states list"
+msgstr ""
+
+#: functions/manage_locations.php:341
+#@ lmtemplatic
+msgid "Edit State"
+msgstr ""
+
+#: functions/manage_locations.php:349
+#@ lmtemplatic
+msgid "Manage States"
+msgstr ""
+
+#: functions/manage_locations.php:350
+#@ lmtemplatic
+msgid "Add a field for state"
+msgstr ""
+
+#: functions/manage_locations.php:350
+#@ lmtemplatic
+msgid "Add new State"
+msgstr ""
+
+#: functions/manage_locations.php:352
+#@ lmtemplatic
+msgid "Add and manage your state details from this section. You can add new states using above add link.<br> These states will be listed in the dropdown according to the country selected by your user."
+msgstr ""
+
+#: functions/manage_locations.php:355
+#@ lmtemplatic
+msgid "State created successfully."
+msgstr ""
+
+#: functions/manage_locations.php:357
+#@ lmtemplatic
+msgid "State updated successfully."
+msgstr ""
+
+#: functions/manage_locations.php:359
+#@ lmtemplatic
+msgid "State deleted  successfully."
+msgstr ""
+
+#: functions/manage_locations.php:395
+#@ lmtemplatic
+msgid "Add a city"
+msgstr ""
+
+#: functions/manage_locations.php:396
+#: functions/manage_locations.php:404
+#@ lmtemplatic
+msgid "Back to city list"
+msgstr ""
+
+#: functions/manage_locations.php:398
+#@ lmtemplatic
+msgid "Adequate information will lead to accurate results and map. So, please enter all information accordingly."
+msgstr ""
+
+#: functions/manage_locations.php:403
+#@ lmtemplatic
+msgid "Edit city"
+msgstr ""
+
+#: functions/manage_locations.php:406
+#@ lmtemplatic
+msgid "For accurate results, please enter the adequate information."
+msgstr ""
+
+#: functions/manage_locations.php:413
+#@ lmtemplatic
+msgid "Manage Cities"
+msgstr ""
+
+#: functions/manage_locations.php:414
+#@ lmtemplatic
+msgid "Add new city"
+msgstr ""
+
+#: functions/manage_locations.php:416
+#@ lmtemplatic
+msgid "<b>Important note:</b> Cities will appear in front-end city selection box only after you add some listings/events to them. <br/><br/>"
+msgstr ""
+
+#: functions/manage_locations.php:420
+#@ lmtemplatic
+msgid "City created successfully. Until you do not create any post for this particular city, it will not appear in a navigation strip for selection."
+msgstr ""
+
+#: functions/manage_locations.php:422
+#@ lmtemplatic
+msgid "City updated successfully."
+msgstr ""
+
+#: functions/manage_locations.php:424
+#@ lmtemplatic
+msgid "City deleted  successfully."
+msgstr ""
+
+#: functions/manage_locations.php:502
+#@ lmtemplatic
+msgid "Country Flag"
+msgstr ""
+
+#: functions/manage_locations.php:503
+#@ lmtemplatic
+msgid "ISO Code2"
+msgstr ""
+
+#: functions/manage_locations.php:504
+#@ lmtemplatic
+msgid "ISO Code3"
+msgstr ""
+
+#: functions/manage_locations.php:506
+#@ lmtemplatic
+msgid "Active"
+msgstr ""
+
+#: functions/manage_locations.php:507
+#: functions/manage_locations.php:681
+#: functions/manage_locations.php:1060
+#: functions/manage_locations.php:1393
+#: functions/manage_locations.php:1421
+#@ lmtemplatic
+msgid "Browse"
+msgstr ""
+
+#: functions/manage_locations.php:679
+#: functions/manage_locations.php:1136
+#@ lmtemplatic
+msgid "State Code"
+msgstr ""
+
+#: functions/manage_locations.php:879
+#@ lmtemplatic
+msgid "City"
+msgstr ""
+
+#: functions/manage_locations.php:880
+#@ lmtemplatic
+msgid "Located In"
+msgstr ""
+
+#: functions/manage_locations.php:881
+#@ lmtemplatic
+msgid "Map Type"
+msgstr ""
+
+#: functions/manage_locations.php:882
+#: functions/manage_locations.php:1309
+#@ lmtemplatic
+msgid "Post Type"
+msgstr ""
+
+#: functions/manage_locations.php:883
+#: functions/manage_locations.php:1048
+#@ lmtemplatic
+msgid "Message"
+msgstr ""
+
+#: functions/manage_locations.php:884
+#@ lmtemplatic
+msgid "Scaling Factor"
+msgstr ""
+
+#: functions/manage_locations.php:951
+#@ lmtemplatic
+msgid "Delete"
+msgstr ""
+
+#: functions/manage_locations.php:953
+#@ lmtemplatic
+msgid "City ID:"
+msgstr ""
+
+#: functions/manage_locations.php:954
+#@ lmtemplatic
+msgid "Edit"
+msgstr ""
+
+#: functions/manage_locations.php:956
+#@ lmtemplatic
+msgid "Set Default"
+msgstr ""
+
+#: functions/manage_locations.php:1030
+#@ lmtemplatic
+msgid "Write the country name."
+msgstr ""
+
+#: functions/manage_locations.php:1034
+#@ lmtemplatic
+msgid "ISO Code 2"
+msgstr ""
+
+#: functions/manage_locations.php:1037
+#@ lmtemplatic
+msgid "Write the two letter country code here <br>(e.g. \"US\" for United States of America. You can find these codes from <a href =\"http://en.wikipedia.org/wiki/ISO_3166-1#Current_codes\" target=\"_blank\"> here </a> )"
+msgstr ""
+
+#: functions/manage_locations.php:1041
+#@ lmtemplatic
+msgid "ISO Code 3"
+msgstr ""
+
+#: functions/manage_locations.php:1044
+#@ lmtemplatic
+msgid "Write the three letter country code here <br>(e.g. \"USA\" for United States of America. You can find these codes from <a href =\"http://en.wikipedia.org/wiki/ISO_3166-1#Current_codes\" target=\"_blank\"> here </a> )"
+msgstr ""
+
+#: functions/manage_locations.php:1051
+#@ lmtemplatic
+msgid "Write the country message here to display it on your site."
+msgstr ""
+
+#: functions/manage_locations.php:1055
+#@ lmtemplatic
+msgid "Country flag"
+msgstr ""
+
+#: functions/manage_locations.php:1058
+#: functions/manage_locations.php:1391
+#: functions/manage_locations.php:1419
+#@ lmtemplatic
+msgid "Or"
+msgstr ""
+
+#: functions/manage_locations.php:1062
+#@ lmtemplatic
+msgid "Upload flag image for above mentioned country. It will appear on your site along with the country name."
+msgstr ""
+
+#: functions/manage_locations.php:1067
+#: functions/manage_locations.php:1144
+#: functions/manage_locations.php:1428
+#@ lmtemplatic
+msgid "Save all changes"
+msgstr ""
+
+#: functions/manage_locations.php:1117
+#: functions/manage_locations.php:1214
+#@ lmtemplatic
+msgid "Country"
+msgstr ""
+
+#: functions/manage_locations.php:1121
+#@ lmtemplatic
+msgid "Select Country Name"
+msgstr ""
+
+#: functions/manage_locations.php:1132
+#@ lmtemplatic
+msgid "Write the state name that falls in the above selected country"
+msgstr ""
+
+#: functions/manage_locations.php:1138
+#@ lmtemplatic
+msgid "Write the zone code of the above mentioned state"
+msgstr ""
+
+#: functions/manage_locations.php:1226
+#@ lmtemplatic
+msgid "State/region"
+msgstr ""
+
+#: functions/manage_locations.php:1229
+#@ lmtemplatic
+msgid "Select state"
+msgstr ""
+
+#: functions/manage_locations.php:1241
+#@ lmtemplatic
+msgid "Map type"
+msgstr ""
+
+#: functions/manage_locations.php:1243
+#@ lmtemplatic
+msgid "  Road Map"
+msgstr ""
+
+#: functions/manage_locations.php:1244
+#@ lmtemplatic
+msgid "Terrain Map"
+msgstr ""
+
+#: functions/manage_locations.php:1246
+#@ lmtemplatic
+msgid "Satellite Map"
+msgstr ""
+
+#: functions/manage_locations.php:1248
+#@ lmtemplatic
+msgid "Hybrid  Map"
+msgstr ""
+
+#: functions/manage_locations.php:1250
+#@ lmtemplatic
+msgid "Select any of the above type for your map"
+msgstr ""
+
+#: functions/manage_locations.php:1255
+#@ lmtemplatic
+msgid "Map scaling factor"
+msgstr ""
+
+#: functions/manage_locations.php:1265
+#@ lmtemplatic
+msgid "Define the zoom level of the map here.<br/> Its Min. value is 1 and Max. Value is 19. The recommended level is 13"
+msgstr ""
+
+#: functions/manage_locations.php:1274
+#@ lmtemplatic
+msgid "Set Address on Map"
+msgstr ""
+
+#: functions/manage_locations.php:1291
+#@ lmtemplatic
+msgid "City latitude"
+msgstr ""
+
+#: functions/manage_locations.php:1295
+#@ lmtemplatic
+msgid "City longitude"
+msgstr ""
+
+#: functions/manage_locations.php:1299
+#@ lmtemplatic
+msgid "Map display"
+msgstr ""
+
+#: functions/manage_locations.php:1302
+#@ lmtemplatic
+msgid "According to Map Scaling factor"
+msgstr ""
+
+#: functions/manage_locations.php:1304
+#@ lmtemplatic
+msgid "Fit all available listings"
+msgstr ""
+
+#: functions/manage_locations.php:1305
+#@ lmtemplatic
+msgid "Select whether you want to display map as per Map scaling factor you have set above or adjust the scaling factor<br/> automatically so that all available listings appear on the map."
+msgstr ""
+
+#: functions/manage_locations.php:1325
+#@ lmtemplatic
+msgid "Selected post type will be displayed on home page map. <br> <b>Note:</b> Make sure about its category selection in the below given &quot;Categories&quot; option"
+msgstr ""
+
+#: functions/manage_locations.php:1330
+#: functions/manage_locations.php:1601
+#@ lmtemplatic
+msgid "Categories"
+msgstr ""
+
+#: functions/manage_locations.php:1361
+#@ lmtemplatic
+msgid "Select the categories for which this field should appear in on the place or event submission form."
+msgstr ""
+
+#: functions/manage_locations.php:1365
+#@ lmtemplatic
+msgid "City Message"
+msgstr ""
+
+#: functions/manage_locations.php:1368
+#@ lmtemplatic
+msgid "Write a description of the city that you would like to display on your site."
+msgstr ""
+
+#: functions/manage_locations.php:1372
+#@ lmtemplatic
+msgid "Background Color"
+msgstr ""
+
+#: functions/manage_locations.php:1384
+#@ lmtemplatic
+msgid "choose a background color for this city. <br> <b>Tip:</b>You can define a color that represents the particular city to add an advantage to recognize the cities on your site."
+msgstr ""
+
+#: functions/manage_locations.php:1388
+#@ lmtemplatic
+msgid "Background Image"
+msgstr ""
+
+#: functions/manage_locations.php:1393
+#: functions/manage_locations.php:1421
+#@ lmtemplatic
+msgid "<span style=\"color:red; font-weight:bold;\">NOTE:</span> Insert the image into post after uploading it."
+msgstr ""
+
+#: functions/manage_locations.php:1395
+#@ lmtemplatic
+msgid "Upload image to display it as a background image for this city. Ideal width size for it is <b>1900 pixels</b>."
+msgstr ""
+
+#: functions/manage_locations.php:1400
+#@ lmtemplatic
+msgid "Header Background Color"
+msgstr ""
+
+#: functions/manage_locations.php:1412
+#@ lmtemplatic
+msgid "choose a header background color for this city. <br> <b>Tip:</b>You can define a color that represents the particular city to add an advantage to recognize the cities on your site."
+msgstr ""
+
+#: functions/manage_locations.php:1416
+#@ lmtemplatic
+msgid "Header Upload Image"
+msgstr ""
+
+#: functions/manage_locations.php:1423
+#@ lmtemplatic
+msgid "Upload image to display it as a header background image for this city.Ideal width size for it is 1240 pixels and keep the height upto 240px."
+msgstr ""
+
+#: functions/manage_locations.php:1484
+#@ lmtemplatic
+msgid "States not available"
+msgstr ""
+
+#: functions/manage_locations.php:1531
+#: functions/manage_locations.php:1553
+#@ lmtemplatic
+msgid "City not available"
+msgstr ""
+
+#: functions/manage_locations.php:1593
+#@ lmtemplatic
+msgid "Select All"
+msgstr ""
+
+#: functions/manage_locations.php:1693
+#, php-format
+#@ lmtemplatic
+msgid "There is no categories in %s"
+msgstr ""
+
+#: functions/map/locations_map.php:310
+#@ lmtemplatic
+msgid "Clicking the above \"Set Address on Map\" button, you can simply drag the pinpoint to locate the exact address on the map. "
+msgstr ""
+
+#: functions/map/map-shortcodes/map-shortcodes.php:89
+#@ lmtemplatic
+msgid "Pinpoint"
+msgstr ""
+
+#: functions/widget_functions.php:15
+#@ lmtemplatic
+msgid "Displays a dropdown for selecting a country, state and city. Use the widget only once per page. Works best in sidebar areas."
+msgstr ""
+
+#: functions/widget_functions.php:16
+#@ lmtemplatic
+msgid "T &rarr; Select a City"
+msgstr ""
+
+#: functions/widget_functions.php:20
+#@ lmtemplatic
+msgid "Multicity"
+msgstr ""
+
+#: functions/widget_functions.php:156
+#@ lmtemplatic
+msgid "Widget Title"
+msgstr ""
+
+#: location-manager.php:32
+#@ lmtemplatic
+msgid "System might facing the problem in include "
+msgstr ""
+
+#: location-manager.php:92
+#, php-format
+#@ lmtemplatic
+msgid "You have not activated the base plugin %s. Please activate it to use Tevolution-LocationManager plugin."
+msgstr ""
+
+#: location-manager.php:165
+#@ lmtemplatic
+msgid "Location Settings"
+msgstr ""
+
+#: templatic_login.php:4
+#@ lmtemplatic
+msgid "Tevolution Update"
+msgstr ""
+
+#: templatic_login.php:84
+#@ lmtemplatic
+msgid "Templatic Login , enter your templatic credentials to take the updates of Tevolution-Location manager."
+msgstr ""
+
+#: templatic_login.php:88
+#@ lmtemplatic
+msgid "User Name"
+msgstr ""
+
+#: templatic_login.php:92
+#@ lmtemplatic
+msgid "Password"
+msgstr ""
+
+#: templatic_login.php:97
+#@ lmtemplatic
+msgid "Cancel"
+msgstr ""
+
+#: wp-updates-plugin.php:45
+#@ lmtemplatic
+msgid "There is a new version of Tevolution-Location Manager plugin available "
+msgstr ""
+
+#: wp-updates-plugin.php:50
+#@ lmtemplatic
+msgid " <a href=\"\" class=\"thickbox\" title=\"Templatic Location Manager Update\">update now</a>."
+msgstr ""
+
+#: wp-updates-plugin.php:93
+#@ lmtemplatic
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: wp-updates-plugin.php:97
+#@ lmtemplatic
+msgid "An unknown error occurred"
+msgstr ""
+

@@ -1,0 +1,2256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Directory\n"
+"POT-Creation-Date: 2014-03-21 16:07+0530\n"
+"PO-Revision-Date: 2014-03-25 17:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: Templatic <upendra@templatic.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\directory7\\wp-content\n"
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_maps.php:37
+msgid "Disable"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_maps.php:46
+msgid "Click"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_maps.php:309
+msgid ""
+"<h3>No Records Found</h3><p>Sorry, no records were found. Please adjust your "
+"search criteria and try again.</p>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_maps.php:313
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_taxonomies_map.php:126
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/google_map_widget.php:93
+msgid "Title or Keyword"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_maps.php:406
+msgid "Select Post:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_maps.php:420
+msgid "Categories:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_maps.php:1123
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/templatic-connector.php:601
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_locations.php:1604
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-error.php:48
+msgid "Categories"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:29
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:24
+msgid "By car"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:30
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:25
+msgid "By public transit"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:31
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:26
+msgid "By Bicycling"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:32
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:27
+msgid "By Walking"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:35
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:30
+msgid "Metric"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:36
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:31
+msgid "Imperial"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:39
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:58
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:34
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:52
+msgid "Enter Location"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:41
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:36
+msgid "Get Directions"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:42
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:37
+msgid "View Large Map"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:60
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:54
+msgid "Please enter your address to get the direction map."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/google-maps/google_map_detail.php:214
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/google_map_detail.php:192
+msgid "View Larger Map"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/templatic.php:290
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:191
+msgid "Upload Image"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/templatic.php:303
+msgid ""
+"Are you really sure want to DELETE this post? Deleted post can not be "
+"recovered later."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/templatic.php:304
+msgid "Deleting."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/templatic.php:307
+msgid "Deleting.."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/templatic.php:310
+msgid "Deleting..."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/templates/archive-tevolution.php:67
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/templates/taxonomy-tevolution-tag.php:71
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/templates/taxonomy-tevolution.php:64
+msgid "Apologies, no results were found matching this search criteria."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/templatic-connector.php:356
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:639
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_single_functions.php:43
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/functions.php:1580
+msgid "Facebook Share."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/templatic-connector.php:365
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:651
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_single_functions.php:52
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/functions.php:1591
+msgid "Tweet"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/templatic-connector.php:597
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/admin_manage_custom_fields_edit.php:495
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/ajax_custom_taxonomy.php:8
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/category.php:41
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/add_price_packages.php:191
+msgid "Select All"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/templatic-connector.php:1401
+msgid "Review"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/templatic-connector.php:1403
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1445
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1496
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:145
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:210
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:29
+msgid "Reviews"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:448
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:700
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:715
+msgid "Your claim for this post has been sent successfully."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:571
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php:580
+msgid "Claim Ownership"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_widget.php:97
+msgid "Claim Ownership Is Not Enable"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/claim_widget.php:119
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:148
+msgid "Title"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:22
+msgid "Do you own this"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:23
+msgid "Verify your ownership for"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:27
+msgid "Full Name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:28
+msgid "Your Email"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:29
+msgid "Contact No"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:30
+msgid "Your Claim"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:30
+msgid ""
+"Hello, I would like to notify you that I am the owner of this listing. I "
+"would like to verify its authenticity."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:33
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:709
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_functions.php:202
+msgid "Submit"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:34
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:29
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:1111
+msgid "Loading..."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:73
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:89
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:85
+msgid "Invalid captcha. Please try again."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:75
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:91
+msgid "You need to play the game to send the mail successfully."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:104
+msgid "This field is mandatory. Please enter your name."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:143
+msgid "Please enter your valid email address."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php:160
+msgid "Please enter your claim message."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/admin_manage_custom_fields_edit.php:417
+msgid "Edit - "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/admin_manage_custom_fields_edit.php:421
+msgid "Back to manage custom fields"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:858
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:961
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:974
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:1402
+msgid "Select at least one category for your "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:895
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:388
+msgid "Address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:1045
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/submit_preview_buttons.php:221
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/submit_preview_buttons.php:226
+msgid "Go back and edit"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:1370
+msgid "Please Select"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:3292
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:256
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:270
+msgid "Verify Captcha"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4019
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5222
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:404
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/directory-listing-single-content.php:63
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:252
+msgid "Map"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4021
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5224
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:406
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:810
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:929
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:1109
+msgid "Location"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4958
+msgid "Accept terms and conditions."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4978
+msgid "Please accept Term and Conditions"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:4979
+msgid "Please accept Term and Conditions."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5163
+msgid "Package Type"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5169
+msgid "Validity"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5169
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:541
+msgid "Days"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5173
+msgid "Number of Posts"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5178
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:558
+msgid "Recurring Charges"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5194
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:386
+msgid "Post Description"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5207
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:242
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:357
+msgid "Post Excerpt"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5514
+msgid ""
+"Safari will allow you to upload only one image, so we suggest you use some "
+"other browser."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5591
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5603
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php:5617
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:185
+msgid "Information"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/custom_fields_preview.php:150
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:456
+msgid "Back to Top"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:27
+msgid "Uploading..."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:34
+msgid "Your image size must be less then"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:34
+msgid "kilobytes"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:41
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/image_uploader.php:52
+msgid "You can upload maximum 10 images"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:330
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:375
+msgid "Set Address on Map"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:337
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:382
+msgid "Address Latitude"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:339
+msgid "Enter latitude for Google Map perfection. e.g.  39.955823048131286"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:343
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:388
+msgid "Address Longitude"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:345
+msgid "Enter logngitude for Google Map perfection. e.g.  -75.14408111572266"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:384
+msgid ""
+"Please enter latitude for google map perfection. eg.: 39.955823048131286"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/location_add_map.php:390
+msgid ""
+"Please enter logngitude for google map perfection. eg.: -75.14408111572266"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/post_upgrade_payment.php:68
+msgid "Select payment options"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:401
+msgid "Uncategorized"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:416
+msgid "No Tags"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:598
+msgid "Price"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:676
+msgid "A new post has been submitted on your site"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/install.php:874
+msgid "Pending payment through Pre bank transfer"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:647
+msgid "Related"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1026
+msgid "Posted In"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1058
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1096
+msgid "Tagged In"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1398
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:99
+msgid "MAP"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1415
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1468
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:155
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:116
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:181
+msgid "Alphabetical"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1418
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1470
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:119
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:184
+msgid "Title Ascending"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1421
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1474
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:122
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:188
+msgid "Title Descending"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1425
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1478
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:126
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:192
+msgid "Publish Date Ascending"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1429
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1482
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:130
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:196
+msgid "Publish Date Descending"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1435
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1487
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:135
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:201
+msgid "Start Date low to high"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1439
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1491
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:139
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:205
+msgid "Start Date high to low"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1449
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1500
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:149
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:214
+msgid "Rating"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1453
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1503
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:153
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:217
+msgid "Random"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1512
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:154
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:226
+msgid "All"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1513
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:227
+msgid "A"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1514
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:228
+msgid "B"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1515
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:229
+msgid "C"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1516
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:230
+msgid "D"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1517
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:231
+msgid "E"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1518
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:232
+msgid "F"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1519
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:233
+msgid "G"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1520
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:234
+msgid "H"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1521
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:235
+msgid "I"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1522
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:236
+msgid "J"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1523
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:237
+msgid "K"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1524
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:238
+msgid "L"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1525
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:239
+msgid "M"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1526
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:240
+msgid "N"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1527
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:241
+msgid "O"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1528
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:242
+msgid "P"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1529
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:243
+msgid "Q"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1530
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:244
+msgid "R"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1531
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:245
+msgid "S"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1532
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:246
+msgid "T"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1533
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:247
+msgid "U"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1534
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:248
+msgid "V"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1535
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:249
+msgid "W"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1536
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:250
+msgid "X"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1537
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:251
+msgid "Y"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php:1538
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:252
+msgid "Z"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/add_to_favourites.php:45
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:99
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:133
+msgid "Add to favorites"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:386
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:389
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/general_functions.php:494
+msgid "Email sent successfully"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:10
+msgid "Send To Friend"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:15
+msgid "Friend&rsquo;s name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:17
+msgid "Friend&rsquo;s email"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:19
+msgid "Your name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:21
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:17
+msgid "Your email"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:23
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:21
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4271
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:182
+msgid "Subject"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:23
+msgid "Check out this post"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:25
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:26
+msgid "Comments"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:25
+msgid ""
+"Hello, I just stumbled upon this listing and thought you might like it. Just "
+"check it out."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:28
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:41
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4305
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:216
+msgid "Send"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:122
+msgid "Please enter your friend's name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:152
+msgid "Please enter your friend's valid email address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:168
+msgid "Please Enter Your Name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:200
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:148
+msgid "Please enter your valid email address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_frms.php:216
+msgid "Please Enter Comments"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:11
+msgid "Inquiry for"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:15
+msgid "Full name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:19
+msgid "Contact number"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:22
+msgid "Inquiry email"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:25
+msgid " Message"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:116
+msgid "Please enter your full name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:165
+msgid "Please enter subject line"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-generalization/popup_inquiry_frm.php:182
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:347
+msgid "Please enter message"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-manage_ip/manage_ip_functions.php:98
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:458
+msgid ""
+"Apologies, your IP has been blocked for this domain. You are not able to use "
+"the submit form."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:365
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:680
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:715
+msgid "Would you like to make this "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:365
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:680
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:715
+msgid "featured?"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:463
+msgid "Select a Package"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:530
+msgid "Package type"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:530
+msgid "Pay per subscription"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:530
+msgid "Pay per post"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:537
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:554
+msgid "Charges"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:541
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:561
+msgid "Day"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:545
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:565
+msgid "Month"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:549
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:569
+msgid "Year"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:571
+msgid "Cycle"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:683
+msgid "Yes &sbquo; feature this listing on homepage."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:685
+msgid "Yes &sbquo; feature this listing on category page."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:707
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:742
+msgid "An additional amount will be charged to make this"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:707
+msgid "featured."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:707
+msgid "You have the option to feature your"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:707
+msgid "on home page or category page or both."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:742
+msgid "comment moderateable."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:752
+msgid "Total price as per your selection."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_functions.php:752
+msgid "Final amount including discount will be displayed on preview page."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_js.php:177
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_js.php:186
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_js.php:340
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/price_package_js.php:345
+msgid "Free"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:26
+msgid "Transaction Report"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:29
+msgid "Transaction Detail"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:41
+msgid "Package Detail"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:64
+msgid "Transaction Status"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic_transaction_detail_report.php:85
+msgid "User Information"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic-manage_coupon/install.php:105
+msgid "Sorry! coupon code does not exist.Please try another coupon code."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic-manage_coupon/install.php:125
+msgid "Coupon Code"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic-manage_coupon/install.php:128
+msgid "Validate"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic-manage_coupon/install.php:130
+msgid "Enter coupon code here (optional)"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment_cancel.php:33
+msgid "Invalid procedure."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment_functions.php:58
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:180
+msgid "Select Payment Method"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment/paypal/cancel.php:35
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment/paypal/return.php:40
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:48
+msgid "Home"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-ratings/templatic_post_rating.php:144
+msgid "Rate this by clicking a star below"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-ratings/templatic_post_rating.php:170
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:246
+msgid "Dashboard"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:249
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:94
+msgid "Edit profile"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:250
+msgid "Change password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:254
+msgid "Logout"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:270
+msgid "ERROR: The password you entered for the username admin is incorrect. "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:281
+msgid "Username"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:284
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:704
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:98
+msgid "Password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:291
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:106
+msgid "Remember me on this computer"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:295
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:29
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:113
+msgid "Sign In"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:299
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:694
+msgid "New User? Register Now"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:300
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:348
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:108
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:142
+msgid "Forgot password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:352
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:410
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:221
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:7
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4268
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:178
+msgid "Email"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/login_box_widget.php:356
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:152
+msgid "Get New Password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:233
+msgid "Sign Up Now"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:287
+msgid "Register Now"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_form.php:293
+msgid "<p>Registration is disabled on this website !</p>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:388
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:231
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:114
+msgid "Facebook"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:391
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:235
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:118
+msgid "Twitter"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:394
+msgid "LinkedIn"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:401
+msgid "Edit Profile"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:412
+msgid "Country"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:479
+msgid "Total Listing"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:512
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:523
+msgid "You have subscribed to"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:514
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:525
+msgid "price package for"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:516
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:527
+msgid "Total number of posts:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:518
+msgid "Submited:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:520
+msgid "Remaining:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:664
+msgid "Login or register"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:685
+msgid "Invalid Username/Password."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:688
+msgid "I &acute;m a"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:689
+msgid "Existing User"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_functions.php:699
+msgid "Login"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_js.php:54
+msgid "Email Id already exist.Please enter another email"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_js.php:61
+msgid "Your email address is verified."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_js.php:105
+msgid "User name already exist.Please enter another user name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/registration_js.php:112
+msgid "Your user name is verified."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:94
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:184
+msgid "User name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:146
+msgid "E-mail"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:172
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:187
+msgid "Please Enter E-mail"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/shortcodes_registration.php:176
+msgid "Please provide a valid email address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:112
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:132
+msgid "Update"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:113
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:133
+msgid "Cancel"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:125
+msgid "New Password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:129
+msgid "Confirm New Password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:143
+msgid "Please enter New Password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:149
+msgid "Please enter New Password  minimum 5 chars"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:155
+msgid "Please enter Confirm New Password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:161
+msgid "Please enter Confirm New Password minimum 5 chars"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/user_profile.php:167
+msgid "New Password and Confirm New Password should be same"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/js/login.js.php:37
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4142
+msgid "Please Enter Name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/js/login.js.php:55
+msgid "Please Enter password"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/js/login.js.php:79
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:188
+msgid "Please Enter User name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-registration/js/login.js.php:96
+msgid "Please Enter Email ID"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-widgets/templatic_advanced_search_widget.php:55
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:85
+msgid "Post"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-widgets/templatic_browse_by_tag_widget.php:47
+msgid "No Tag Available"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-widgets/templatic_metakey_search_widget.php:73
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_advance_search.php:35
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_advance_search.php:83
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:359
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/directory-listing-search-form.php:6
+#: D:\wamp\www\directory7\wp-content/themes/Directory/searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:78
+msgid "Submitted"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:81
+msgid "Posts"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:92
+msgid "There is no user registered with"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-widgets/templatic_people_list_widget.php:92
+msgid "role."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_advance_search.php:40
+msgid "Tags"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_advance_search.php:67
+msgid "Author"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_advance_search.php:69
+msgid "Exact author"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:153
+msgid "Sort By"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:156
+msgid "Most Submited"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:204
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing.php:84
+msgid "View All My"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:208
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing.php:88
+msgid "View My"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:212
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing.php:92
+msgid "No entries"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:220
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing.php:100
+msgid "Entries"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:223
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing.php:103
+msgid "Entry"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:228
+msgid "Visit Website"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:239
+msgid "Linkedin"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:248
+msgid "View Profile"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:256
+msgid ""
+"Whoops, looks like there is no registered user whose name starts with "
+"alphabet "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:313
+msgid "Prev"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_people.php:327
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:43
+msgid "Next"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_post_upgrade.php:119
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:439
+msgid "Next Step"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:260
+msgid "ERROR: Sorry, you are not allowed to edit this post."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_submit_form_page.php:442
+msgid "Preview "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution/tmplconnector/shortcodes/shortcode_taxonomies_map.php:122
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/google_map_widget.php:89
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/map/map-shortcodes/city_map_shortcode.php:138
+msgid ""
+"<p>Your selected category do not have any records yet at your current "
+"location.</p>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_functions.php:188
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/directory-listing-search-form.php:3
+msgid "Search for"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_functions.php:191
+msgid "Enter a location"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_functions.php:332
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/archive-listing.php:100
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/taxonomy-listingcategory.php:97
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/taxonomy-listingtags.php:72
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_functions.php:603
+msgid "(Sample csv file)"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:97
+msgid "GRID VIEW"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:98
+msgid "LIST VIEW"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:114
+msgid "Sort"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:274
+#: D:\wamp\www\directory7\wp-content/themes/Directory/content.php:29
+#: D:\wamp\www\directory7\wp-content/themes/Directory/content.php:62
+msgid "Featured"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:331
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:442
+msgid "twitter"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:337
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:448
+msgid "facebook"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:343
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:454
+msgid "Google+"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/directory_listing_functions.php:910
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/map/map-shortcodes/map-shortcodes.php:89
+msgid "Pinpoint"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:104
+msgid "Sorry! There is no near by results found"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:202
+msgid "Sorry! No near by results found."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:346
+msgid "Where?"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:349
+msgid "Within?"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:786
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:812
+msgid "View all &raquo;"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/functions/widget_functions.php:931
+msgid "Mile range:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/directory-listing-single-content.php:60
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:249
+msgid "Overview"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/directory-listing-single-content.php:102
+msgid "Events"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/listing-search.php:91
+msgid ""
+"Sorry! No results were found for the requested search. Try searching with "
+"some different keywords"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:196
+msgid "Logo"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:210
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:8
+msgid "Website"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:215
+msgid "Phone"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:218
+msgid "Time"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:256
+msgid "Special Offer"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-Directory/templates/single-listing-preview.php:260
+msgid "Video"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/location_functions.php:423
+msgid "Select a city"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:25
+msgid "Default City"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:394
+msgid "Multi City"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:465
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:468
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:646
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:816
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:935
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/widget_functions.php:96
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:176
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:177
+msgid "Select Country"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:484
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:486
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:178
+msgid "Select State"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:506
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:508
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:179
+msgid "Select City"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:661
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:831
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:949
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/widget_functions.php:110
+msgid "All Regions"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:679
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:846
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:964
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/widget_functions.php:125
+msgid "All Cities"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:861
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:979
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/manage_function.php:1023
+msgid "My Nearest City"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/plugins/Tevolution-LocationManager/functions/map/locations_map.php:310
+msgid ""
+"Clicking the above \"Set Address on Map\" button, you can simply drag the "
+"pinpoint to locate the exact address on the map. "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/404.php:28
+msgid "Sorry, The page you're looking for cannot be found!"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/404.php:29
+msgid ""
+"I can help you find the page you want to see, just help me with a few clicks "
+"please."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/comments.php:51
+msgid "Comments are closed, but <a href="
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/content.php:16
+msgid "Featured post"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/header.php:82
+#: D:\wamp\www\directory7\wp-content/themes/Directory/header.php:93
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/functions.php:1168
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/menus.php:54
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/menus.php:80
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/menus.php:105
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/menus.php:145
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/full-page-map.php:81
+msgid "Menu"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/index.php:47
+msgid "No Entries"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/index.php:49
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-error.php:15
+msgid "Whoops. Looks like there are no entries available here."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:110
+msgid "Link"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:134
+msgid "You have subscribed to "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:135
+msgid " which allows you to submit "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:138
+msgid " You have submitted "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:139
+msgid "events till now, go and submit remaining "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:142
+msgid " and you have already submitted."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:142
+msgid "to continue the listing Click on add/submit events."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:160
+msgid "Search result for"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:175
+msgid "You are browsing the search results for "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:184
+msgid "Daily Archives: "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:186
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:192
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:198
+msgid "You are browsing the site archives by."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:190
+msgid "Monthly Archives:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:196
+msgid "Yearly Archives:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:219
+msgid "Archives"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/loop-meta.php:223
+msgid "You are browsing the site archives."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/searchform.php:13
+msgid "Search this site..."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:3
+msgid "Comment"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:4
+msgid "Log out of this account"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:5
+msgid "Log out &raquo;"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:6
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2704
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2731
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:173
+msgid "Name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:9
+msgid "*"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:10
+msgid "Leave a Reply"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:11
+msgid "Add a Review"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:12
+msgid "Leave a Reply to "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:13
+msgid "Add a Review to "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:14
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:15
+msgid "Post Comment"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:16
+msgid "Logged in as"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:19
+msgid "Leave a response"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:20
+#, php-format
+msgid "%1$s Response"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:21
+#, php-format
+msgid "%1$s Responses"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:24
+msgid "No Comment"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:25
+msgid "One Comment"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:27
+msgid "No Review"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:28
+msgid "One Review"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:30
+msgid "1 Comment"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:31
+msgid "Post Review"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:32
+msgid "rating"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:33
+msgid "ratings"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:34
+msgid "Upgraded Successfully"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:35
+msgid "Renew"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:36
+msgid "| No Comments"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:37
+msgid "| 1 Comment"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:38
+msgid "| % Comments"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:39
+msgid "| Comments Closed"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:42
+msgid "Last Page"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:44
+msgid "Previous"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:45
+msgid "First Page"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:49
+msgid "Search results for"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:50
+msgid "404 Not Found"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:53
+msgid "Published by"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:54
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:107
+msgid "Edit"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:55
+msgid "On"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:56
+msgid "Categories: "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:57
+msgid "Tags: "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:58
+msgid "[Read More...]"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:61
+msgid "Mile"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:62
+msgid "Kilometer"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:63
+msgid "Kilometers"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:64
+msgid "Miles"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:67
+msgid "min"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:68
+msgid "mins"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:69
+msgid "hour"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:70
+msgid "hours"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:71
+msgid "day"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:72
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:153
+msgid "days"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:73
+msgid "week"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:74
+msgid "weeks"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:75
+msgid "month"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:76
+msgid "months"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:77
+msgid "year"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:78
+msgid "years"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:79
+msgid "ago"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:80
+msgid "view"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:81
+msgid "views"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:82
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:138
+msgid "Visits today"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:85
+msgid "Visited"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:86
+msgid "time"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:87
+msgid "times"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:88
+msgid "Visit"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:89
+msgid "Visits"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:90
+msgid "today"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:91
+msgid "To"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:94
+msgid "Reply"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:95
+msgid "Log in to reply."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:96
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:100
+msgid "Added"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:103
+msgid "<strong>Package Name: </strong>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:104
+msgid "<strong>Price: </strong>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:105
+msgid "<strong>Next Billing will occur on: </strong>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:106
+msgid "<strong>Expires On: </strong>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:108
+msgid "Upgrade"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:109
+msgid "Delete"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:112
+msgid "Select Categories"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:116
+msgid ""
+"<p>Hello [#to_name#]</p><p>Here's some info about your payment...</"
+"p><p>[#transaction_details#]</p><p>If you'll have any questions about this "
+"payment please send an email to [#admin_email#]</p><p>Thanks!,<br/"
+">[#site_name#]</p>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:117
+msgid ""
+"<p>Howdy [#to_name#] ,</p><p>You have received a payment of [#payable_amt#] "
+"on [#site_name#]. Details are available below</p><p>[#transaction_details#]</"
+"p><p>Thanks,<br/>[#site_name#]</p>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:118
+msgid "Thank you! We have successfully received the submitted information."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:119
+msgid "Click here"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:120
+msgid "View your submitted information"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:121
+msgid "Thank you! We have successfully received your PreBank payment request."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:122
+msgid "To complete the transaction please transfer "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:123
+msgid "Please include the following number as reference:"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:124
+msgid "Thank you!"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:125
+msgid ""
+"<p>Howdy [#to_name#] ,</p><p>Payment from [#user_login#] is pending for the "
+"new listing they submitted on your site as they selected pre bank transfer "
+"as their preferred payment method.</p><p><p>You can view details below "
+"[#transaction_details#]</p> <p>You can contact [#user_login#] for status of "
+"the payment.</p><p>Thanks!<br/>[#site_name#]</p>"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:126
+msgid "Payment Method"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:127
+msgid "Paid amount"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:128
+msgid "Status"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:131
+msgid "Send to friend"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:132
+msgid "Send inquiry"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:136
+msgid "What?"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:137
+msgid "Pay &amp; Publish"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:141
+msgid "Listings"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:144
+msgid "My Favorites"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:147
+msgid "Category"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:149
+msgid "Description"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:150
+msgid "Excerpt"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:151
+msgid "Images"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:152
+msgid "You are going to submit post for "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:154
+msgid "You are going to upgrade your post with "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:155
+msgid "package which will cost you"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:156
+msgid "You are going to submit a post that will cost you "
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:157
+msgid "for"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:158
+msgid ""
+"This is the preview of your submitted information. To make any changes, "
+"please press the 'Go back and edit' button below."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:159
+msgid "You are going to update your entry."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:160
+msgid "Log out"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:163
+msgid "Please select Category"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:164
+msgid "Please Enter title"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:165
+msgid "Please enter phone number"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:166
+msgid "Please Enter Address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:167
+msgid "Please Enter content"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:168
+msgid "Please provide your email address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:169
+msgid "Please provide valid email address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:170
+msgid "Oops!, looks like you forgot to enter a value in some compulsory field"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:173
+msgid "Please select country name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:174
+msgid "Please select city name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:175
+msgid "Please select state name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:181
+msgid "States not available"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:182
+msgid "City not available"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/languages/templatic-front-end-string.php:183
+msgid "read more"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/classes/twitter.php:83
+msgid "cURL is NOT installed on this server"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/classes/twitter.php:181
+msgid "No public tweets"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/classes/twitter.php:185
+msgid "Unable to get tweets"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/functions.php:31
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/functions.php:38
+msgid "Posted in"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/functions.php:32
+msgid "and tagged"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/functions.php:1599
+msgid "Pin It"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/loadpopularpost.php:184
+msgid "No Popular post fond."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2692
+msgid "Your Name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2693
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2705
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2714
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2732
+msgid "Your Email Address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2697
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2706
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:2716
+msgid "Subscribe"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4177
+msgid "Please Enter valid Email"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4193
+msgid "Please Enter Subject"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4210
+msgid "Please Enter Message"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4227
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:366
+msgid "Please enter captcha"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4251
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:162
+msgid "You need to play the game to contact us."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4254
+msgid "Thank you, your information is sent successfully."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4256
+msgid "Please fill out all the fields before submitting."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4263
+msgid "Name*"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4278
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:187
+msgid "Message"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4289
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:198
+msgid "Verify words"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:4857
+msgid "There is no post available right now."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:5296
+msgid "Subtotal"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:5299
+msgid "View Cart"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/library/functions/widgets.php:5301
+msgid "Checkout"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/archives.php:60
+msgid "by"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/archives.php:64
+msgid "on"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:142
+msgid "Contact mail successfully sent."
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:171
+msgid "Inquiry Form"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:280
+msgid "Please enter your name"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:314
+msgid "Please enter valid email address"
+msgstr ""
+
+#: D:\wamp\www\directory7\wp-content/themes/Directory/page-templates/contact-us.php:331
+msgid "Please enter a subject"
+msgstr ""

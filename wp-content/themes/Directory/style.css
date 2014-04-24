@@ -1,0 +1,789 @@
+/**
+ * Theme Name: Directory
+ * Theme URI: http://templatic.com/
+ * Description: A feature rich WordPress theme for creating a global business directory, works with Tevolution and its extension plugins.
+ * Version: 1.1.3
+ * Author: Templatic
+ * Author URI: http://templatic.com
+ * License: GNU General Public License v2.0
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ */
+@import url(library/css/style.css);
+#header, #main, #sidebar-subsidiary, #sidebar-subsidiary-2c, #sidebar-subsidiary-3c, .footer_top .footer-wrap, .home .map_fixed_width, .sidebar-after-header, .sidebar-subsidiary, .widget.templatic_slider, body .nav_bg .widget-nav-menu { background-color:#fff; padding-left:20px; padding-right:20px }
+.map_full_width { background-color:#fff }
+.map_full_width .widget { margin-bottom:0 }
+.map_full_width .map_sidebar { padding:10px 0 }
+.home_page_banner.map_fixed_width .map_sidebar { clear:both; padding:10px 0 30px }
+.home .hentry .entry-content { margin:0 }
+.breadcrumb { background:#fff; padding:0 0 10px }
+.footer-wrap .menu-container { background:0 0 }
+body.tevolution-directory .category-widget, body.tevolution-event-manager .category-map { margin:0 0 15px }
+.mega-menu, .menu-container { padding-bottom:15px }
+div#header, header#header { background-repeat:no-repeat; background-size:96% auto; background-position:center }
+div#menu-primary .menu li a:hover, div#menu-primary .menu li.current-menu-item a, div#menu-primary .menu li:hover>a { background-image:url(images/menu-hover-bg.png); background-position:left top; background-repeat:repeat; background-color:transparent }
+body #content .claim_ownership .claimed { background:none!important; border:none!important; font-size:15px; color:#666; font-weight:700 }
+.flexslider .widget-title { border:none; text-align:center; padding:0 }
+.flexslider p { text-align:center }
+.flexslider .slides_container p { text-align:left }
+.flex-control-nav { display:none }
+.flexslider .slides>li .post_list { margin-bottom:30px }
+.flexslider .slides>li .post_list:last-child { margin-bottom:0 }
+body .all_category_list_widget .category_list_wrap { margin-left:-2% }
+body .all_category_list_widget .category_list { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; width:31%; box-sizing:border-box; -ms-box-sizing:border-box; -moz-box-sizing:border-box; -o-box-sizing:border-box; -webkit-box-sizing:border-box; margin:10px -2px 0 2% }
+body .all_category_list_widget .category_list h3 { border:none; font-size:16px; color:#000; font-weight:700; padding:0; margin-bottom:6px }
+body .all_category_list_widget .category_list h3 a { color:#000; font-weight:700 }
+body .all_category_list_widget .category_list h3 a:hover { color:#0165BD }
+body .all_category_list_widget .category_list ul li { border:none; line-height:24px; padding:0 }
+body .all_category_list_widget .category_list ul li a { color:#316593 }
+body .all_category_list_widget .category_list ul li a:hover { color:#000 }
+body .all_category_list_widget .category_list ul { border-left:none; padding-left:0; margin:0 0 25px }
+.widget_loop_taxonomy .post { padding:20px }
+.widget_loop_taxonomy .post .entry .listing_rating { margin-bottom:2px }
+.widget_loop_taxonomy .post .entry p { color:#777; line-height:20px; padding-bottom:8px }
+.widget_loop_taxonomy .post .entry p strong { color:#000; font-weight:400 }
+.widget_loop_taxonomy .post .entry .phone { font-size:14px; color:#000; font-weight:700 }
+.widget_loop_taxonomy .post .fp_entry .view_more { padding:10px 0 0 }
+.widget_loop_taxonomy .post.featured_post { background:#fffbef }
+.widget_loop_taxonomy .post .fp_image .featured_tag { position:absolute; left:0; top:10px; background:#feda70; font-size:13px; color:#2c2c2c; font-weight:700; padding:2px 8px }
+.widget_loop_taxonomy { line-height:24px }
+.widget_loop_taxonomy .post { border-bottom:1px solid rgba(0, 0, 0, .1); border-bottom:1px solid #ccc \0/; box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; -o-box-sizing:border-box; -webkit-box-sizing:border-box; padding-bottom:20px }
+.widget_loop_taxonomy .post:last-child { border-bottom:none }
+.widget_loop_taxonomy .post .fp_image { position:relative; display:inline-block; *display:inline;
+zoom:1; vertical-align:top; width:35%; max-width:248px; margin-right:4% }
+.widget_loop_taxonomy .post .fp_image img { display:block; max-width:100% }
+.widget_loop_taxonomy .post .fp_image .featured_post { position:absolute; top:10px; left:0; background:#ffffea; padding:2px 8px }
+.widget_loop_taxonomy .post .fp_entry h2 { font-size:16px; font-weight:700; line-height:normal; margin-bottom:4px }
+.widget_loop_taxonomy .post .fp_entry h2 a { font-weight:700 }
+.widget_loop_taxonomy .post .fp_entry { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; width:60%; margin-left:-4px }
+.widget_loop_taxonomy .post .fp_entry .entry-content { margin-top:10px }
+.widget_loop_taxonomy .post .fp_entry .featured_widget_rating { margin-bottom:8px }
+.widget_loop_taxonomy .post .fp_entry .bottom_line { padding:0 }
+.widget_loop_taxonomy .post .fp_entry .byline { margin-bottom:4px }
+.widget_loop_taxonomy .post .fp_entry .byline span { text-transform:capitalize }
+body .widget_loop_taxonomy.list .post .fp_entry .bottom_line { font-size:12px; color:#000 }
+body .widget_loop_taxonomy.list .post .fp_entry .bottom_line a { color:#666 }
+body .widget_loop_taxonomy.list .post .fp_entry .bottom_line a:hover { color:#0165BD }
+body .widget_loop_taxonomy .post .fp_entry .date { font-size:20px }
+.widget_loop_taxonomy.grid .widget_loop_taxonomy_wrap { margin-left:-3% }
+.widget_loop_taxonomy.grid .post { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; float:none; width:30.4%; border-bottom:none; box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; -o-box-sizing:border-box; -webkit-box-sizing:border-box; margin:0 -4px 20px 3% }
+.widget_loop_taxonomy.grid .post:last-child { padding-bottom:20px }
+.widget_loop_taxonomy.grid .post .fp_image { width:100%; margin:0 0 10px }
+.widget_loop_taxonomy.grid .post .fp_entry { width:100%; margin-left:0 }
+.widget_loop_taxonomy.grid .post .fp_entry .bottom_line, .widget_loop_taxonomy.grid .post .fp_entry .entry-content { display:none }
+.widget_loop_taxonomy .post .fp_entry .date { background:#000; border-radius:4px; font-size:1em; color:#fff; font-weight:700; text-align:center; line-height:normal; text-transform:uppercase; padding:6px 0 }
+.widget_loop_taxonomy .post .fp_entry .date span { display:block; font-size:12px; font-weight:400 }
+.widget_loop_taxonomy .post .fp_entry .event-title { display:inline-block; vertical-align:top; padding-left:70px; width:100%; box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; -o-box-sizing:border-box; -webkit-box-sizing:border-box }
+.icl_languages_selector { position:relative; z-index:99 }
+.sidebar .listing_post .hentry h2 a { color:#666; font-size:14px }
+.sidebar .listing_post .hentry h2 a:hover { color:#0165BD }
+.sidebar .listing_post .hentry .entry-summary a { color:#666 }
+.sidebar .listing_post .hentry .entry-summary a:hover { color:#0165BD }
+body h1.loop-title, body h1.page-title { font-size:30px; padding-bottom:10px; margin-bottom:10px }
+body .author_cont .author_photo { border-color:rgba(0, 0, 0, .13) }
+body .author_cont .author_photo img { display:inline-block; width:auto }
+.author_cont .bottom_line a { color:#666 }
+.author_cont .bottom_line { color:#000; font-size:12px }
+.author_cont .entry-title { width:auto!important }
+.author_price_details { clear:both }
+body.city_image #footer .footer_top { border-top:none }
+#content .people_info h3 { font-size:18px; font-weight:700; margin:0 0 6px }
+body .author_custom_post_wrapper ul li { margin-right:6px }
+body .author_custom_post_wrapper ul li.normal { margin-right:10px }
+body #content .peoplelisting li { border-bottom:1px solid rgba(0, 0, 0, .13) }
+body #content .peoplelisting li h3 span.total_homes { font-weight:400 }
+body #content .peoplelisting li h3 span.total_homes a { font-weight:700 }
+body #content .people_info .links .profile { padding:0 }
+body .author_custom_post_wrapper ul li a { background:#fafafa \0/; background:rgba(0, 0, 0, .05); border-width:2px 2px medium; border-color:rgba(0, 0, 0, .13); font-size:14px; color:#444; text-transform:none; padding:12px 12px 11px }
+body .author_custom_post_wrapper { border-bottom:2px solid #ccc \0/; border-bottom:2px solid rgba(0, 0, 0, .13) }
+body .author_custom_post_wrapper ul li a.nav-author-post-tab-active { margin-bottom:-2px }
+body .tevolution_manager_tab ul.view_mode li { margin-left:2px }
+body .tevolution_manager_tab ul.view_mode li a { width:45px; height:35px; background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .05); border:1px solid #e0e0e0 \0/; border:1px solid rgba(0, 0, 0, .4); border-radius:4px }
+body .tevolution_manager_tab ul.view_mode li a#gridview { background-position:-3px -6px }
+body .tevolution_manager_tab ul.view_mode li a#listview { background-position:-3px -56px }
+body .tevolution_manager_tab ul.view_mode li a#event_map { background-position:-3px -106px }
+body .tevolution_manager_tab ul.view_mode li a#gridview.active, body .tevolution_manager_tab ul.view_mode li a#gridview:hover { background-position:-3px -156px }
+body .tevolution_manager_tab ul.view_mode li a#listview.active, body .tevolution_manager_tab ul.view_mode li a#listview:hover { background-position:-3px -206px }
+body .tevolution_manager_tab ul.view_mode li a#event_map.active, body .tevolution_manager_tab ul.view_mode li a#event_map:hover { background-position:-3px -256px }
+body .tevolution_manager_tab .sort_options .view_mode { margin-bottom:0 }
+body .tevolution_manager_tab { border-bottom:2px solid #ccc; padding-bottom:6px; margin:20px 0 }
+body .tevolution_manager_tab #tevolution_sorting { margin-left:5px }
+body .tevolution_manager_tab #tevolution_sorting #tevolution_sortby { width:155px; background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .05); border:1px solid #e0e0e0 \0/; border:1px solid rgba(0, 0, 0, .4); border-radius:4px; padding:9px 8px 8px }
+body .tevolution_manager_tab #tevolution_sorting #tevolution_sortby option { margin:5px 8px }
+body #tev_sub_categories { margin:0; padding:12px 0 }
+body #tev_sub_categories ul { margin:0 }
+body #tev_sub_categories ul li { display:inline-block; line-height:normal; margin:0 2% 15px 0; vertical-align:top; width:22.5% }
+body #tev_sub_categories ul li a { color:#157BD4 }
+body #tev_sub_categories ul li a:hover { color:#000 }
+#ui-datepicker-div .ui-widget-header, body .ui-widget, body .ui-widget-content { color:#666 }
+body .ui-widget-content a { color:#0165bd }
+body .ui-widget-content a:hover { color:#666 }
+#ui-datepicker-div.ui-datepicker .ui-datepicker-next, #ui-datepicker-div.ui-datepicker .ui-datepicker-prev { border:none }
+#ui-datepicker-div.ui-datepicker .ui-datepicker-next span, #ui-datepicker-div.ui-datepicker .ui-datepicker-prev span { display:none }
+body.taxonomy #listpagi { margin-top:0 }
+body #listpagi .pagination a { margin:0 4px }
+body #listpagi .pagination a strong { margin:0 }
+body #listpagi .pagination span { margin:0 4px }
+body .claim-post-wraper ul { list-style:none; margin:0 }
+body #content .claim-post-wraper ul li { position:relative; margin-right:1px }
+body #content .claim-post-wraper ul li a:before, body #content .claim-post-wraper ul li.claim_ownership p:before { position:absolute; top:1px; left:-6px; content:"|"; font-size:18px; color:#999 }
+body #content .claim-post-wraper ul li:first-child { margin-right:4px }
+body #content .claim-post-wraper ul li:first-child a:before { display:none }
+body #content .claim-post-wraper ul li a { display:block; background:0 0; border:none; border-radius:4px; -webkit-transition:all ease-in-out .2s;
+-moz-transition:all ease-in-out .2s;
+-o-transition:all ease-in-out .2s;
+transition:all ease-in-out .2s;
+font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#666; font-weight:700; line-height:normal; outline:0; padding:5px 12px!important; margin:0 2px 0 0 }
+body #content .claim-post-wraper ul li a:hover { background:#000; color:#fff }
+body #content .claim-post-wraper ul li .addtocalendar ul li a:before, body #content .claim-post-wraper ul li .templ_popup_forms a:after, body #content .claim-post-wraper ul li a.modal_close:before { display:none }
+body .pe_advsearch_form #toggle_postID { max-height:316px }
+#searchsubmit { margin:0 }
+body #sub_listing_categories { padding:12px 0; margin:0 }
+body #sub_listing_categories ul { margin:0 }
+body #sub_listing_categories ul li a { color:#157bd4 }
+body #sub_listing_categories ul li a:hover { color:#333 }
+body .directory_manager_tab { border-bottom:2px solid #ccc \0/; border-bottom:2px solid rgba(0, 0, 0, .13); padding-bottom:6px }
+body ul.sorting_option li { width:23%; padding-right:2%; margin:0 -4px 0 0 }
+body ul.sorting_option li a { background:url(images/dot2.png) no-repeat 0 11px; padding:5px 5px 5px 12px }
+body .directory_manager_tab ul.view_mode li { margin-left:2px }
+body .directory_manager_tab ul.view_mode li a { width:45px; height:35px; background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .05); border:1px solid #e0e0e0 \0/; border:1px solid rgba(0, 0, 0, .13); border-radius:4px }
+body .directory_manager_tab ul.view_mode li a#gridview { background-position:-3px -6px }
+body .directory_manager_tab ul.view_mode li a#listview { background-position:-3px -56px }
+body .directory_manager_tab ul.view_mode li a#event_map { background-position:-3px -106px }
+body .directory_manager_tab ul.view_mode li a#gridview.active, body .directory_manager_tab ul.view_mode li a#gridview:hover { background-position:-3px -156px }
+body .directory_manager_tab ul.view_mode li a#listview.active, body .directory_manager_tab ul.view_mode li a#listview:hover { background-position:-3px -206px }
+body .directory_manager_tab ul.view_mode li a#event_map.active, body .directory_manager_tab ul.view_mode li a#event_map:hover { background-position:-3px -256px }
+body #loop_listing_archive .post.featured_c, body #loop_listing_taxonomy .post.featured_c { background:#fffbef }
+body #loop_listing_archive .post .listing_img .featured_tag, body #loop_listing_taxonomy .post .listing_img .featured_tag { background:#feda70; font-size:13px; color:#2c2c2c; font-weight:700 }
+body #loop_listing_archive .post .entry h2, body #loop_listing_taxonomy .post .entry h2 { font-size:16px; font-weight:700; line-height:normal }
+body #loop_listing_archive .post .entry .listing_rating, body #loop_listing_taxonomy .post .entry .listing_rating { margin-bottom:2px }
+body #loop_listing_archive .post .entry p, body #loop_listing_taxonomy .post .entry p { color:#777; line-height:20px; padding-bottom:8px }
+body #loop_listing_archive .post .entry .phone, body #loop_listing_taxonomy .post .entry .phone { font-size:14px; color:#000; font-weight:700 }
+body #loop_listing_archive .post .entry .rev_pin ul, body #loop_listing_taxonomy .post .entry .rev_pin ul { margin:0 }
+body #loop_listing_archive .post .entry .rev_pin ul li, body #loop_listing_taxonomy .post .entry .rev_pin ul li { font-size:12px; line-height:normal; padding-right:8px; margin-right:6px }
+body #loop_listing_archive .post .entry .rev_pin ul li:last-child, body #loop_listing_taxonomy .post .entry .rev_pin ul li:last-child { border:none }
+body #loop_listing_archive .post .entry .rev_pin ul li .fav .addtofav, body #loop_listing_taxonomy .post .entry .rev_pin ul li { font-size:12px }
+body .directory_manager_tab #directory_sorting { margin-left:5px }
+body .directory_manager_tab #directory_sorting #directory_sortby { width:155px; background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .05); border:1px solid #e0e0e0 \0/; border:1px solid rgba(0, 0, 0, .13); border-radius:4px; padding:9px 8px 8px }
+body .directory_manager_tab #directory_sorting #directory_sortby option { margin:5px 8px }
+body #loop_listing_archive.grid, body #loop_listing_taxonomy.grid { margin-left:-3.9% }
+body #loop_listing_archive.grid .post, body #loop_listing_taxonomy.grid .post { width:29.5%; padding:8px; margin:0 -4px 20px 3.9% }
+body #loop_listing_archive.grid .post .listing_img, body #loop_listing_taxonomy.grid .post .listing_img { margin-bottom:5px }
+body #loop_listing_archive.grid .post .entry .entry-summary, body #loop_listing_taxonomy.grid .post .entry .entry-summary { display:none }
+body #loop_listing_archive .post .listing_img, body #loop_listing_taxonomy .post .listing_img { width:30% }
+body #loop_listing_archive.list .post .entry, body #loop_listing_taxonomy.list .post .entry { width:66% }
+body #loop_listing_archive.list .post .entry .listing-title, body #loop_listing_taxonomy.list .post .entry .listing-title { width:100%; margin-left:0 }
+body #loop_listing_archive.list .post, body #loop_listing_taxonomy.list .post { padding:8px; margin-bottom:10px }
+body #loop_listing_archive.list .post .entry h2, body #loop_listing_taxonomy.list .post .entry h2 { float:left }
+body #loop_listing_archive.list .post .entry .listing_rating, body #loop_listing_taxonomy.list .post .entry .listing_rating { float:right }
+body #loop_listing_archive.list .post .entry p, body #loop_listing_taxonomy.list .post .entry p { clear:both; line-height:22px }
+body #loop_listing_archive.list .post .entry .bottom_line, body #loop_listing_taxonomy.list .post .entry .bottom_line { font-size:12px; color:#000 }
+body #loop_listing_archive.list .post .entry .bottom_line a, body #loop_listing_taxonomy.list .post .entry .bottom_line a { color:#666 }
+body #loop_listing_archive.list .post .entry .bottom_line a:hover, body #loop_listing_taxonomy.list .post .entry .bottom_line a:hover { color:#0165BD }
+body #loop_listing_taxonomy.list .post .entry .listing_rating .average_rating { margin-bottom:0 }
+article .entry-header p.phone, body .widget_loop_taxonomy .post .fp_entry p.phone { background:url(images/phone.png) no-repeat 0 5px; padding-left:18px; clear:both }
+body .widget_loop_taxonomy .post .fp_entry p.address { background:url(images/location.png) no-repeat 0 5px; padding-left:18px }
+body .widget_loop_taxonomy .post .fp_entry p.time { background:url(images/time.png) no-repeat 0 5px; padding-left:18px }
+body .widget_loop_taxonomy .post .fp_entry p.event_date { background:url(images/date.png) no-repeat 0 5px; padding-left:18px }
+.user #content article.hentry .entry-header p.phone { background:url(images/phone.png) no-repeat 0 5px; padding-left:18px }
+.user #content article.hentry .entry-header p.address { background:url(images/location.png) no-repeat 0 5px; padding-left:18px }
+.user #content article.hentry .entry-header p.time { background:url(images/time.png) no-repeat 0 5px; padding-left:18px }
+.user #content article.hentry .entry-header p.event_date { background:url(images/date.png) no-repeat 0 5px; padding-left:18px }
+body #loop_event_archive .post .entry p.address, body #loop_event_taxonomy .post .entry p.address { background:url(images/location.png) no-repeat 0 5px; padding-left:18px }
+body #loop_event_archive .post .entry p.event_date, body #loop_event_taxonomy .post .entry p.event_date { background:url(images/date.png) no-repeat 0 5px; padding-left:18px }
+body #loop_event_archive .post .entry p.time, body #loop_event_taxonomy .post .entry p.time { background:url(images/time.png) no-repeat 0 5px; padding-left:18px }
+article .entry-header ul li.review a, body #loop_event_archive .post .entry .rev_pin ul li.review a, body #loop_event_taxonomy .post .entry .rev_pin ul li.review a, body .author_cont .hfeed .entry-header .rev_pin ul li.review a { background:url(images/review.png) no-repeat 0 0; padding-left:18px }
+body #loop_listing_archive.list .post .entry p.phone, body #loop_listing_taxonomy.list .post .entry p.phone { background:url(images/phone.png) no-repeat 0 5px; padding-left:18px }
+body #loop_listing_archive.list .post .entry p.address, body #loop_listing_taxonomy.list .post .entry p.address { background:url(images/location.png) no-repeat 0 5px; padding-left:18px }
+body #loop_listing_archive.list .post .entry p.time, body #loop_listing_taxonomy.list .post .entry p.time { background:url(images/time.png) no-repeat 0 5px; padding-left:18px }
+body #loop_listing_archive.grid .post .entry p.phone, body #loop_listing_taxonomy.grid .post .entry p.phone { background:url(images/phone.png) no-repeat 0 5px; padding-left:18px }
+body #loop_listing_archive.grid .post .entry p.address, body #loop_listing_taxonomy.grid .post .entry p.address { background:url(images/location.png) no-repeat 0 5px; padding-left:18px }
+body #loop_listing_archive.grid .post .entry p.time, body #loop_listing_taxonomy.grid .post .entry p.time { background:url(images/time.png) no-repeat 0 5px; padding-left:18px }
+body #loop_listing_archive .post .entry .rev_pin ul li.review a, body #loop_listing_taxonomy .post .entry .rev_pin ul li.review a { background:url(images/review.png) no-repeat 0 0; padding-left:18px }
+body .peoplelink span { padding-left: 20px; padding-right:20px }
+body .peoplelink .website { background:url(images/iconset.png) no-repeat -19px -17px }
+body .peoplelink .facebook { background:url(images/iconset.png) no-repeat -19px -69px }
+body .peoplelink .twitter { background:url(images/iconset.png) no-repeat -19px -120px }
+body .peoplelink .linkedin { background:url(images/iconset.png) no-repeat -19px -164px }
+body .peoplelink span:after { display:none }
+article .entry-header p.address { background:url(images/location.png) no-repeat 0 5px; padding-left:18px }
+article .entry-header p.event_date { background:url(images/date.png) no-repeat 0 5px; padding-left:18px }
+article .entry-header p.time { background:url(images/time.png) no-repeat 0 5px; padding-left:18px }
+.listed_events .event_detail p { padding-bottom:0 }
+.listed_events .event_detail p.address { background:url(images/location.png) no-repeat 0 5px; padding-left:18px }
+.listed_events .event_detail p.event_date { background:url(images/date.png) no-repeat 0 5px; padding-left:18px }
+.listed_events .event_detail p.time { background:url(images/time.png) no-repeat 0 5px; padding-left:18px }
+body .links span { padding-left:20px; padding-right:20px }
+body .links .email { background:url(images/iconset.png) no-repeat -19px -214px }
+body .links .phone { background:url(images/iconset.png) no-repeat -19px -264px }
+body .rev_pin ul { margin-left:0 }
+body .rev_pin li, body .rev_pin li a { font-size:12px!important }
+body .rev_pin .comment a { background:url(images/review.png) no-repeat 0 0; padding-left:18px }
+.directory-single-page .listed_events { background:0 0; border-bottom:1px solid #ccc \0/; border-bottom:1px solid rgba(0, 0, 0, .13) }
+#loop_event_atteding_list .rev_pin ul li.review a { background:url(images/review.png) no-repeat 0 0; padding-left:18px }
+body #loop_event_atteding_list .post .entry p.phone { background:url(images/phone.png) no-repeat 0 5px; padding-left:18px }
+body #loop_event_atteding_list .post .entry p.address { background:url(images/location.png) no-repeat 0 5px; padding-left:18px }
+body #loop_event_atteding_list .post .entry p.time { background:url(images/time.png) no-repeat 0 5px; padding-left:18px }
+body #loop_event_atteding_list .post .entry p.event_date { background:url(images/date.png) no-repeat 0 5px; padding-left:18px }
+body.directory-single-page .hentry .entry-header-title .listing_rating { margin:8px 0 0 }
+body.directory-single-page .hentry .entry-header-title .listing_rating .single_rating span { color:#666 }
+body.directory-single-page .hentry .entry-header-title .listing_rating .average_rating { margin-bottom:0 }
+body.directory-single-page .hentry .entry-header-title .listing_rating .single_rating .rating_text { margin-top:1px }
+body.tevolution-directory .post-meta { color:#666; margin-top:10px }
+body.tevolution-directory .post-meta a { color:#000 }
+body.tevolution-directory .post-meta a:hover { color:#0165BD }
+body.directory-single-page .hentry .entry-header-title .entry-header-custom-wrap { margin-top:30px }
+body.directory-single-page .hentry .entry-header-title .entry-header-custom-wrap p { line-height:normal }
+body.directory-single-page .hentry .entry-header-title .entry-header-custom-wrap p label { color:#000; font-weight:400 }
+.directory-single-page .view_counter, .event-single-page .view_counter { float:left; margin-top:18px }
+.directory-single-page .view_counter p, .event-single-page .view_counter p { padding:0 }
+body.tevolution-directory .ui-widget-content { clear:both; background:0 0; border:none; border-radius:0; padding:0 }
+body.tevolution-directory .ui-widget-header { border-color:#ccc \0/; border-color:rgba(0, 0, 0, .13); border-width:0 0 2px; margin-bottom:24px; margin-left:0 }
+body.tevolution-directory .ui-widget-header li a { background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .03); border-color:#ccc \0/; border-color:rgba(0, 0, 0, .13); font-size:14px; color:#444; border-width:2px; text-transform:none; padding:14px 15px 13px }
+body.tevolution-directory .ui-widget-header .ui-state-active a, body.tevolution-directory .ui-widget-header .ui-state-active a:link, body.tevolution-directory .ui-widget-header .ui-state-active a:visited { border-bottom:2px solid #fff; padding:14px 15px 13px; margin-bottom:-2px }
+body.tevolution-directory #image_gallery ul { margin-bottom:0 }
+body.tevolution-directory .get_direction table { margin:0 }
+body.tevolution-directory .get_direction #from-input { font-family:Arial, Helvetica, sans-serif; font-size:14px }
+body.tevolution-directory .get_direction select { margin-bottom:5px }
+body.tevolution-directory .get_direction .b_getdirection { color:#fff; margin:0 15px 0 0 }
+body.tevolution-directory .sidebar .get_direction #from-input { margin-bottom:5px }
+body.tevolution-directory .sidebar .get_direction .b_getdirection { margin:0 2px 5px 0 }
+.adp-list { border:0; padding:0 }
+.entry-content .adp img, .entry-content .adp-list img { margin-top:0; margin-bottom:0 }
+body.tevolution-directory #listing_description .listing_content { width:61% }
+body.tevolution-directory #listing_description .entry-header-image { width:35% }
+body.tevolution-directory #listing_description a.button { color:#FFF }
+.singular .pos_navigation { padding:0 }
+body.singular .pos_navigation .post_left, body.singular .pos_navigation .post_right { width:auto; max-width:45% }
+body.singular .pos_navigation .post_left a, body.singular .pos_navigation .post_right a { width:auto; text-indent:0; display:block }
+body.singular .pos_navigation .post_left a i, body.singular .pos_navigation .post_right a i { display:inline-block; text-indent:-9999px }
+body.singular .pos_navigation .post_left a { padding-left:30px; background-position:-10px -104px }
+body.singular .pos_navigation .post_right a { padding-right:30px; background-position:right -10px top -61px }
+body.singular .bottom_line { float:left; width:88% }
+body.singular .pos_navigation .post_left { margin-right:4px }
+body.directory-single-page .comment-text { padding:0 }
+body.directory-single-page .comment-text .single_rating img { margin:0 }
+.singular-listing #content #comments { padding-top:30px }
+body #map_canvas .google-map-info .map-inner-wrapper .map-item-info .map_rating { padding:6px 0 0 }
+.more_photos { margin:0 0 10px -10px!important }
+#silde_gallery .flex-direction-nav li a { width:26px; height:50px; background:#0165BD; margin-top:-35px; opacity:0 }
+#silde_gallery:hover .flex-direction-nav li a { opacity:1 }
+#silde_gallery .flex-direction-nav li a:hover { background:#000 }
+#silde_gallery .flex-direction-nav li a.flex-next { right:0 }
+#silde_gallery .flex-direction-nav li a.flex-prev { left:0 }
+#silde_gallery .flex-direction-nav li a i { display:inline-block; margin-top:18px; font-size:14px; color:#fff }
+#silde_gallery { margin:0 auto }
+#silde_gallery.slider_padding_class { padding:0 }
+#event_image_gallery .more_photos li { width:62px!important }
+#event_image_gallery #silde_gallery.slider_padding_class { padding:0 36px }
+#event_image_gallery #silde_gallery .flex-direction-nav li a { height:62px; margin-top:-41px }
+#event_image_gallery #silde_gallery .flex-direction-nav li a i { margin-top:24px }
+body .related_post_grid_view li h3 { margin-bottom:6px }
+body .related_post_grid_view li h3 a { font-size:16px; color:#0165BD; font-weight:700 }
+body .related_post_grid_view li h3 a:hover { color:#000 }
+body #cities_post .post.featured_c { background:#fffbef }
+body #cities_post .post .listing_img .featured_tag { background:#feda70; font-size:13px; color:#2c2c2c; font-weight:700 }
+body #cities_post .post .listing_img { width:30% }
+body #cities_post .post .entry { width:66% }
+body #cities_post .post .entry .listing-title { width:100%; margin-left:0 }
+body #cities_post .entry h2 { font-size:16px; font-weight:700; line-height:normal }
+body #cities_post .post { padding:8px; margin-bottom:10px }
+body #cities_post .post .entry h2 { float:left }
+body #cities_post .post .entry .listing_rating { float:right }
+body #cities_post .post .entry p { clear:both; line-height:22px }
+body #cities_post .entry .bottom_line { font-size:12px; color:#000; padding-bottom:0 }
+body #cities_post .entry .bottom_line a { color:#666 }
+body #cities_post .entry .bottom_line a:hover { color:#0165BD }
+body #event_searchform #searchsubmit { margin-top:0 }
+body #sub_event_categories { padding:12px 0; margin:0 }
+body #sub_event_categories ul { margin:0 }
+body #sub_event_categories ul li a { color:#157bd4 }
+body #sub_event_categories ul li a:hover { color:#333 }
+body .event_manager_tab ul.view_mode li { margin-left:2px }
+body .event_manager_tab ul.view_mode li a { width:45px; height:35px; background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .05); border:1px solid #e0e0e0 \0/; border:1px solid rgba(0, 0, 0, .13); border-radius:4px }
+body .event_manager_tab ul.view_mode li a#gridview { background-position:-3px -6px }
+body .event_manager_tab ul.view_mode li a#listview { background-position:-3px -56px }
+body .event_manager_tab ul.view_mode li a#event_map { background-position:-3px -106px }
+body .event_manager_tab ul.view_mode li a#gridview.active, body .event_manager_tab ul.view_mode li a#gridview:hover { background-position:-3px -156px }
+body .event_manager_tab ul.view_mode li a#listview.active, body .event_manager_tab ul.view_mode li a#listview:hover { background-position:-3px -206px }
+body .event_manager_tab ul.view_mode li a#event_map.active, body .event_manager_tab ul.view_mode li a#event_map:hover { background-position:-3px -256px }
+body #loop_event_archive .post.featured_c, body #loop_event_taxonomy .post.featured_c { background:#fffbef }
+body #loop_event_archive .post .event_img .featured_tag, body #loop_event_taxonomy .post .event_img .featured_tag { background:#feda70; font-size:13px; color:#2c2c2c; font-weight:700 }
+.entry h2.entry-title, body #loop_event_archive .post .entry h2, body #loop_event_taxonomy .post .entry h2 { font-size:16px; font-weight:700; line-height:normal }
+body #loop_event_archive .post .entry .event_rating, body #loop_event_taxonomy .post .entry .listing_rating { margin-bottom:2px }
+body #loop_event_archive .post .entry p, body #loop_event_taxonomy .post .entry p { color:#777; line-height:20px; padding-bottom:8px }
+body #loop_event_archive .post .entry p strong, body #loop_event_taxonomy .post .entry p strong { color:#000; font-weight:400 }
+body #loop_event_archive .post .entry .phone, body #loop_event_taxonomy .post .entry .phone { font-size:14px; color:#000; font-weight:700 }
+body #loop_event_archive .post .entry .rev_pin ul, body #loop_event_taxonomy .post .entry .rev_pin ul { margin:0 }
+body #loop_event_archive .post .entry .rev_pin ul li, body #loop_event_taxonomy .post .entry .rev_pin ul li, body .author_cont .hfeed .entry-header .rev_pin ul li { font-size:12px; line-height:normal; padding-right:8px; margin-right:6px }
+body #loop_event_archive .post .entry .rev_pin ul li:last-child, body #loop_event_taxonomy .post .entry .rev_pin ul li:last-child, body .author_cont .hfeed .entry-header .rev_pin ul li:last-child { border:none }
+body .author_cont .hfeed .entry-header .rev_pin ul { margin-left:0 }
+body .event_manager_tab { border-color:#e0e0e0 }
+body .event_manager_tab ul.event_type li a.active { border-bottom:2px solid #FFF }
+body .sort_order_alphabetical { margin-bottom:20px }
+body .event_manager_tab #event_sorting { margin-left:5px }
+body .event_manager_tab #event_sorting #event_sortby { width:155px; background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .05); border:1px solid #e0e0e0 \0/; border:1px solid rgba(0, 0, 0, .13); border-radius:4px; padding:9px 8px 8px }
+body .event_manager_tab #event_sorting #event_sortby option { margin:5px 8px }
+body .sort_order_alphabetical ul li a { font-size:14px; color:#666; padding:4px 8px }
+body .sort_order_alphabetical ul li a:hover, body .sort_order_alphabetical ul li.active a { background:#000; color:#fff; font-weight:400 }
+body #loop_event_archive.grid, body #loop_event_taxonomy.grid { margin-left:-3.9% }
+body #loop_event_archive.grid .post, body #loop_event_taxonomy.grid .post { width:29.5%; padding:8px; margin:0 -4px 20px 3.9% }
+body #loop_event_archive.grid .post .listing_img, body #loop_event_taxonomy.grid .post .listing_img { margin-bottom:5px }
+body #loop_event_archive.grid .post .entry .entry-summary, body #loop_event_taxonomy.grid .post .entry .entry-summary { display:none }
+#loop_event_archive.grid .post .entry .date, #loop_event_taxonomy.grid .post .entry .date { color:#000; font-weight:700; text-transform:uppercase; margin-bottom:6px }
+body #loop_event_archive.list .post .entry .date, body #loop_event_taxonomy.list .post .entry .date { background:#000; border-radius:4px; font-size:1.5em; color:#fff; font-weight:700; text-align:center; line-height:17px; text-transform:uppercase }
+body #loop_event_archive.list .post .entry .date span, body #loop_event_taxonomy.list .post .entry .date span { display:block; font-size:12px; font-weight:400 }
+body #loop_event_archive .post .event_img, body #loop_event_taxonomy .post .event_img { width:30% }
+body #loop_event_archive.list .post .entry, body #loop_event_taxonomy.list .post .entry { width:66% }
+body #loop_event_archive.list .post .entry .listing-title, body #loop_event_taxonomy.list .post .entry .listing-title { width:100%; margin-left:0 }
+body #loop_event_archive.list .post, body #loop_event_taxonomy.list .post { padding:8px; margin-bottom:10px }
+body #loop_event_archive.list .post .entry h2, body #loop_event_taxonomy.list .post .entry h2 { float:left; max-width:310px; font-size:16px; font-weight:700; line-height:normal; padding-right:10px }
+body #loop_event_archive.list .post .entry .event_rating, body #loop_event_taxonomy.list .post .entry .event_rating { float:right }
+body #loop_event_archive.list .post .entry .event_rating .average_rating, body #loop_event_taxonomy.list .post .entry .event_rating .average_rating { margin-bottom:0 }
+body #loop_event_archive.list .post .entry p, body #loop_event_taxonomy.list .post .entry p { clear:both; line-height:22px }
+body #loop_event_archive.list .post .entry p.event_date, body #loop_event_taxonomy.list .post .entry p { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; margin-right:20px }
+body #loop_event_archive.list .post .entry p.time, body #loop_event_taxonomy.list .post .entry p { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; width:100% }
+body #loop_event_taxonomy.list .post .entry .bottom_line { font-size:12px; color:#000 }
+body #loop_event_taxonomy.list .post .entry .bottom_line a { color:#666 }
+body #loop_event_taxonomy.list .post .entry .bottom_line a:hover { color:#0165BD }
+body.event-single-page .hentry .entry-header-title .event_rating { margin:8px 0 0 }
+body.event-single-page .hentry .entry-header-title .event_rating .single_rating span { color:#666 }
+body.event-single-page .hentry .entry-header-title .event_rating .average_rating { margin-bottom:0 }
+body.event-single-page .hentry .entry-header-title .event_rating .single_rating .rating_text { margin-top:1px }
+body.tevolution-event-manager .post-meta { color:#666; line-height:22px; margin-top:10px }
+body.tevolution-event-manager .post-meta a { color:#000 }
+body.tevolution-event-manager .post-meta a:hover { color:#0165BD }
+body.event-single-page .hentry .entry-header-title .entry-header-custom-wrap { margin-top:30px }
+body.event-single-page .hentry .entry-header-title .entry-header-custom-wrap p { line-height:normal }
+body.event-single-page .hentry .entry-header-title .entry-header-custom-wrap p label { color:#000; font-weight:400 }
+.attending_event { position:relative; background:#fffbef; border-radius:4px; padding:20px 20px 20px 94px; margin:0 0 20px }
+.attending_event img { position:absolute; top:20px; left:20px; width:52px; height:52px; border:1px solid #d1d1d1 }
+.attending_event span.fav span.span_msg { float:left; color:#333; font-weight:700; margin-right:20px }
+.attending_event span.fav a.addtofav { float:left; color:#333; font-weight:700; padding-left:20px }
+.attending_event span.fav a.addtofav.attending { background:url(images/tick.png) no-repeat 0 7px }
+.attending_event span.fav a.addtofav.not_attending { background:url(images/cancel.png) no-repeat 0 5px }
+.attending_event span.fav span.span_msg a { color:#333 }
+.attending_event span.fav span.span_msg a:hover { color:#0165BD }
+.attending_event span.fav span.span_msg .attended_persons { font-weight:400 }
+.recurring_event_class ul li { position:relative; background:#fffbef; border-radius:4px; padding:10px!important; margin:0 0 20px }
+body.woocommerce #content div.product .woocommerce-tabs ul.tabs:before, body.woocommerce-page #content div.product .woocommerce-tabs ul.tabs:before { display:none }
+body.woocommerce div.product .woocommerce-tabs ul.tabs, body.woocommerce-page div.product .woocommerce-tabs ul.tabs { border-bottom:2px solid #ccc \0/; border-bottom:2px solid rgba(0, 0, 0, .13) }
+body.woocommerce #content div.product .woocommerce-tabs ul.tabs li, body.woocommerce div.product .woocommerce-tabs ul.tabs li, body.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li, body.woocommerce-page div.product .woocommerce-tabs ul.tabs li { background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .05); border:2px solid #ccc \0/; border:2px solid rgba(0, 0, 0, .13); border-bottom:0; font-size:14px; color:#444; padding:14px 15px 12px }
+body.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, body.woocommerce div.product .woocommerce-tabs ul.tabs li.active, body.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, body.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active { background:#fff; margin-bottom:-2px; padding:13px 15px; border:2px solid #ccc \0/; border:2px solid rgba(0, 0, 0, .13); border-bottom:0 }
+body.woocommerce #content div.product .woocommerce-tabs ul.tabs li a, body.woocommerce div.product .woocommerce-tabs ul.tabs li a, body.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a, body.woocommerce-page div.product .woocommerce-tabs ul.tabs li a { font-weight:400; text-shadow:none!important }
+body .event_manager_tab { border-bottom:2px solid #ccc \0/; border-bottom:2px solid rgba(0, 0, 0, .13) }
+body .event_manager_tab ul.event_type li a { background-color:#fafafa \0/; background-color:rgba(0, 0, 0, .05); border:2px solid #ccc \0/; border:2px solid rgba(0, 0, 0, .13); border-bottom:0; font-size:14px; color:#444; padding:14px 15px 12px }
+body .event_manager_tab ul.event_type li a.active { margin-bottom:-2px; padding:13px 15px }
+body.tevolution-event-manager .ui-widget-header { clear:both; margin-left:0; border-width:2px; border-color:#ccc \0/; border-color:rgba(0, 0, 0, .13); margin-bottom:24px }
+body.tevolution-event-manager .ui-widget-header li a { background-color:rgba(0, 0, 0, .03); background-color:#ccc \0/; border-color:rgba(0, 0, 0, .13); font-size:14px; color:#444; border-width:2px; text-transform:none; padding:14px 15px 13px }
+body.tevolution-directory .ui-widget-header .ui-state-active a:link, body.tevolution-directory .ui-widget-header .ui-state-active a:visited, body.tevolution-event-manager .ui-widget-header .ui-state-active a { border-bottom:2px solid #fff; padding:14px 15px 13px; margin-bottom:-2px }
+body.tevolution-event-manager #image_gallery ul { margin-bottom:0 }
+body.tevolution-event-manager .get_direction table { margin:0 }
+body.tevolution-event-manager .get_direction #from-input { font-family:Arial, Helvetica, sans-serif; font-size:14px }
+body.tevolution-event-manager .get_direction select { margin-bottom:5px }
+body.tevolution-event-manager .get_direction .b_getdirection { color:#fff; margin:0 15px 5px 0 }
+body.tevolution-event-manager .sidebar .get_direction #from-input { margin-bottom:15px }
+body.tevolution-event-manager .sidebar .get_direction .b_getdirection { margin:0 2px 5px 0 }
+body.tevolution-event-manager.event-single-page .entry-content h2 { border-bottom:4px solid rgba(0, 0, 0, .13); border-bottom:4px solid #e0e0e0 \0/; font-size:20px; color:#000; padding-bottom:6px; margin-bottom:15px }
+body .event-organizer .event-organizer-right { line-height:normal }
+body .event-organizer .event-organizer-right p { padding-bottom:0; margin-bottom:8px }
+body .event-organizer .event-organizer-right label { width:20%; color:#000; font-weight:400 }
+body .event-organizer .event-organizer-right span.label_data { width:76%; margin-left:-4px }
+body.event-single-page .pos_navigation { padding:0 }
+body.event-single-page .bottom_line { float:left; width:88% }
+body.event-single-page .pos_navigation .post_left { margin-right:4px }
+.singular-event #content #comments { padding-top:30px }
+.singular-event #content #comments #comments { padding-top:0 }
+body .payment_method li { padding:0 }
+body table.calendar_widget td.date_n div span.calendar_tooltip { background:#fff; border:2px solid #0165BD }
+body .widget #wp-calendar .calendar_tooltip .event_title { color:#0165BD; font-weight:700; margin-bottom:4px }
+body table.calendar_widget td.date_n div span.calendar_tooltip small { font-size:100% }
+#submit_form .main_btn { padding:15px 30px }
+.t_facebook_fans { background:#fff }
+.sidebar .event_search #srchevent .form_row .form_row { margin-right:0 }
+body #loop_event_atteding_list.list .post .entry .date { background:#000; border-radius:4px; color:#fff; font-weight:700; text-align:center; line-height:normal; text-transform:uppercase; padding:6px 0 }
+body #loop_event_atteding_list.list .post .entry .date span { display:block; font-weight:400 }
+body #loop_event_atteding_list .post .event_img { width:30% }
+body #loop_event_atteding_list.list .post .entry { width:66% }
+body #loop_event_atteding_list.list .post .entry .listing-title { width:100%; margin-left:0 }
+body #loop_event_atteding_list.list .post { padding:8px; margin-bottom:10px }
+body #loop_event_atteding_list.list .post .entry h2 { float:left; font-size:16px; font-weight:700; line-height:normal; margin:0 }
+body #loop_event_atteding_list.list .post .entry .event_rating { float:right }
+body #loop_event_atteding_list.list .post .entry p { clear:both; line-height:22px; padding-bottom:8px }
+body #loop_event_atteding_list.list .post .entry .bottom_line { font-size:12px; color:#000 }
+body #loop_event_atteding_list.list .post .entry .bottom_line a { color:#666 }
+body #loop_event_atteding_list.list .post .entry .bottom_line a:hover { color:#0165BD }
+body .star-rating-control { vertical-align:text-top }
+body form#commentform #rate, body form#commentform #rate div, body form#commentform #rate p { padding:0!important; margin:0!important }
+body #commentform #rate { padding:0; margin:0 }
+body .readtooltipitem { margin-top:0 }
+body .readtooltipitem #rate { margin:4px 10px }
+.how_to_reg p { padding:0 }
+div.pos_navigation .post_left a:hover span, div.pos_navigation .post_right a:hover span { color:#0165BD; cursor:pointer }
+div.pos_navigation .post_left a:hover em, div.pos_navigation .post_right a:hover em { color:#666; cursor:pointer }
+.home_page_banner { position:relative }
+.home_page_banner .search_location { position:absolute; top:100px; left:50%; max-width:1200px }
+.home_page_banner .search_location .widget-wrap { max-width:1200px; margin-left:-50% }
+.home_page_banner .search_location .widget-wrap .search_nearby_widget h3 { border:none; padding:0 }
+.home_page_banner .search_location .widget-wrap .search_nearby_widget #searchform input[type=text] { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; max-width:240px; margin:0 4px 0 0 }
+.home_page_banner .search_location .widget-wrap .search_nearby_widget #searchform input[type=submit] { margin:0 }
+.sidebar-1c .search_location .widget-wrap .search_nearby_widget #searchform input[type=text] { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; max-width:550px; margin:0 4px 0 0 }
+.home_page_banner .event_search #srchevent .form_row { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; max-width:396px; width:100%; padding-bottom:8px; margin:0 4px 0 0 }
+#submit_form .end_date, #submit_form .end_time, #submit_form .st_date, #submit_form .st_time { width:400px; display:inline-block; *display:inline;
+zoom:1; vertical-align:top }
+#submit_form .end_date.clearfix:after, #submit_form .end_time.clearfix:after, #submit_form .st_date.clearfix:after, #submit_form .st_time.clearfix:after { display:none }
+#submit_form .end_date.clearfix, #submit_form .end_time.clearfix, #submit_form .st_date.clearfix, #submit_form .st_time.clearfix { clear:none }
+.sidebar-1c .event_search #srchevent .form_row { display:inline-block; *display:inline;
+zoom:1; vertical-align:top; max-width:392px; width:100%; padding-bottom:8px; margin:0 4px 0 0 }
+.sidebar-2c .event_search #srchevent .form_row input[type=text], .sidebar-2c .event_search #srchevent .form_row select, .sidebar-2c .event_search #srchevent .form_row textarea, .sidebar-3c .event_search #srchevent .form_row input[type=text], .sidebar-3c .event_search #srchevent .form_row select, .sidebar-3c .event_search #srchevent .form_row textarea { max-width:100% }
+.search_nearby_widget .search_range input { box-shadow:none!important }
+.directory-search-page article .entry-header h2, .event-search-page article .entry-header h2 { float:left }
+article .entry-header h2 { max-width:310px; float:left }
+#content article.hentry.featured_c, .archive article.hentry.featured_c, .archive article.post.featured_c, .home .hentry.featured_c, .home .post.featured_c { background:#FFFBEF; padding:8px }
+.singular-post .single-social-media { float:left; margin:20px 15px 0 0 }
+.singular-post .single-social-media .addthis_toolbox { display:inline-block; margin-right:8px; vertical-align:top }
+.singular-post .single-social-media .addthis_toolbox a img { margin:0 }
+.singular-post .single-social-media .addthis_toolbox a, .singular-post .single-social-media .addthis_toolbox iframe { display:block; margin:0; padding:0 }
+.directory-home .map_fixed_width { margin:0 auto; max-width:1200px; background-color:#FFF; padding-left:20px; padding-right:20px }
+@media only screen and (max-width:1200px) {
+#header, #main, #sidebar-subsidiary, #sidebar-subsidiary-2c, #sidebar-subsidiary-3c, .footer_top .footer-wrap, .home .map_fixed_width, .mega-menu, .menu-container, .sidebar-after-header, .sidebar-subsidiary, .widget.templatic_slider, body .mega-menu, body .nav_bg .widget-nav-menu, div#menu-primary, div#menu-secondary, div#menu-secondary1, div#menu-subsidiary {
+padding-left:0;
+padding-right:0
+}
+.city_image {
+background-image:none
+}
+}
+@media only screen and (max-width:980px) {
+#branding, #branding1 {
+float:none;
+margin:0 auto
+}
+.nav_bg .widget-nav-menu li li a:hover, body .mega-menu .nav_bg, body .mega-menu ul.mega li .sub-container.non-mega .sub a:hover, body .mega-menu ul.mega li .sub-container.non-mega li a:hover, body .mega-menu ul.mega li .sub-container.non-mega li.current-menu-item a, body .mega-menu ul.mega li a, div#menu-mobi-secondary .menu li a:hover, div#menu-mobi-secondary .menu li li a:hover, div#menu-mobi-secondary .menu li li:hover>a, div#menu-mobi-secondary1 .menu li a:hover, div#menu-mobi-secondary1 .menu li li a:hover, div#menu-mobi-secondary1 .menu li li:hover>a, div#menu-subsidiary .menu li a:hover, div#menu-subsidiary .menu li li a:hover {
+background-color:transparent!important
+}
+body .mega-menu ul.mega li {
+border-bottom:1px solid #222
+}
+body .mega-menu ul.mega li li {
+border:none
+}
+body .mega-menu ul.mega li a {
+font-size:14px;
+font-weight:400;
+padding:7px 0 8px
+}
+body .mega-menu ul.mega li .sub-container.non-mega .sub a:hover, body .mega-menu ul.mega li .sub-container.non-mega li a:hover, body .mega-menu ul.mega li .sub-container.non-mega li.current-menu-item a {
+background:0 0
+}
+body .mega-menu ul.mega li a, div#menu-mobi-primary .menu li a, div#menu-mobi-secondary .menu li a, div#menu-mobi-secondary1 .menu li a {
+color:#fff!important
+}
+body #listpagi .pagination a {
+margin-bottom:5px
+}
+body.directory-single-page #listing_description .entry-header-image img, body.tevolution-directory #listing_description .entry-header-image, body.tevolution-directory #listing_description .listing_content {
+width:100%
+}
+#header {
+width:92%
+}
+}
+@media only screen and (max-width:679px) {
+body #loop_listing_archive.grid .post, body #loop_listing_taxonomy.grid .post {
+width:45.5%
+}
+body ul.sorting_option {
+margin:15px 0
+}
+body ul.sorting_option li {
+width:31%
+}
+body #loop_event_archive.grid .post, body #loop_event_taxonomy.grid .post {
+width:45.5%
+}
+body .event_manager_tab ul.event_type {
+margin:0 0 5px
+}
+body .event_manager_tab ul.event_type li a, body .event_manager_tab ul.event_type li a.active {
+padding:10px 15px 9px
+}
+body .sort_options ul {
+margin:0 0 10px!important
+}
+.tevolution-directory .ui-widget-header li a, body.tevolution-directory .ui-widget-header .ui-state-active a:link, body.tevolution-directory .ui-widget-header .ui-state-active a:visited, body.tevolution-event-manager .ui-widget-header .ui-state-active a {
+border-color:rgba(0, 0, 0, .13)!important
+}
+body .widget {
+margin-bottom:20px
+}
+.widget_loop_taxonomy.grid .post {
+width:46.6%
+}
+.twp_search_cont input[type=text] {
+margin-bottom:5px
+}
+}
+@media only screen and (max-width:480px) {
+body .all_category_list_widget .category_list {
+width:48%
+}
+body #loop_listing_archive.grid, body #loop_listing_taxonomy.grid {
+margin-left:0
+}
+body #loop_listing_archive.grid .post, body #loop_listing_taxonomy.grid .post {
+width:100%;
+margin:0 0 20px
+}
+body #loop_event_archive.grid, body #loop_event_taxonomy.grid {
+margin-left:0
+}
+body #loop_event_archive.grid .post, body #loop_event_taxonomy.grid .post {
+width:100%;
+margin:0 0 20px
+}
+#submit_form .end_date, #submit_form .end_time, #submit_form .st_date, #submit_form .st_time {
+width:100%
+}
+.widget_loop_taxonomy .post .fp_entry .event-title {
+padding-left:0
+}
+body .widget_loop_taxonomy .post .fp_entry .date {
+position:static;
+background:0 0;
+color:#000;
+font-size:16px;
+width:auto;
+height:auto;
+padding-bottom:6px
+}
+.widget_loop_taxonomy .post .fp_entry .date span {
+display:inline-block
+}
+body .widget_loop_taxonomy.list .post .fp_entry .author_rating {
+float:left
+}
+body .widget_loop_taxonomy .post .fp_image {
+clear:both;
+width:100%;
+max-width:none;
+margin:0 0 10px
+}
+body .widget_loop_taxonomy .post .fp_image img {
+width:100%
+}
+body .widget_loop_taxonomy .post .fp_entry {
+width:100%;
+margin:0
+}
+body .widget_loop_taxonomy.grid, body .widget_loop_taxonomy.grid .widget_loop_taxonomy_wrap {
+margin-left:0
+}
+body .widget_loop_taxonomy.grid .post {
+width:100%;
+border-bottom:1px solid rgba(0, 0, 0, .1);
+border-bottom:1px solid #ccc \0/;
+margin:0 0 10px
+}
+body .widget_loop_taxonomy.grid .post:last-child {
+border:none
+}
+body ul.sorting_option li {
+width:48%
+}
+body #loop_listing_archive .post .listing_img, body #loop_listing_taxonomy .post .listing_img {
+width:100%;
+max-width:none;
+margin-bottom:10px
+}
+body #loop_listing_archive .post .listing_img img, body #loop_listing_archive.list .post .entry, body #loop_listing_taxonomy .post .listing_img img, body #loop_listing_taxonomy.list .post .entry {
+width:100%
+}
+body #loop_event_archive.list .post .entry .event_rating, body #loop_event_archive.list .post .entry h2, body #loop_event_taxonomy.list .post .entry .event_rating, body #loop_event_taxonomy.list .post .entry h2 {
+float:none;
+width:100%
+}
+body #cities_post .post .listing_img {
+width:100%;
+margin:0 0 10px
+}
+body #cities_post .post .entry {
+width:100%;
+margin-left:0
+}
+body #cities_post .post .listing_img img {
+width:100%
+}
+body #loop_event_archive .post .event_img, body #loop_event_taxonomy .post .event_img {
+width:100%;
+max-width:none;
+margin-bottom:10px
+}
+body #loop_event_archive .post .event_img img, body #loop_event_archive.list .post .entry, body #loop_event_taxonomy .post .event_img img, body #loop_event_taxonomy.list .post .entry {
+width:100%
+}
+body #loop_event_archive.list .post .entry h2, body #loop_event_taxonomy.list .post .entry h2 {
+float:none;
+width:100%;
+max-width:none;
+margin-right:0
+}
+body #loop_event_archive.list .post .entry .event_rating, body #loop_event_taxonomy.list .post .entry .listing_rating {
+float:none;
+width:100%
+}
+body #loop_event_archive.list .post .entry .date, body #loop_event_taxonomy.list .post .entry .date {
+background:0 0;
+color:#000;
+width:100%;
+box-sizing:border-box;
+-moz-box-sizing:border-box;
+-ms-box-sizing:border-box;
+-o-box-sizing:border-box;
+-webkit-box-sizing:border-box;
+text-align:left;
+padding-left:10px;
+margin-bottom:10px
+}
+body #loop_event_archive .post .entry .event-title, body #loop_event_taxonomy .post .entry .event-title {
+width:100%;
+margin-left:0
+}
+body #loop_event_archive.list .post .entry .date span, body #loop_event_taxonomy.list .post .entry .date span {
+display:inline
+}
+body .event-single-page .hentry .entry-header-title .entry-header-custom-wrap p label {
+width:100%
+}
+body .event-single-page .hentry .entry-header-title .entry-header-custom-wrap p span {
+width:100%;
+margin-left:0
+}
+body .event-organizer .event-organizer-right p {
+margin-bottom:12px
+}
+body .event-organizer .event-organizer-right label {
+display:block;
+width:100%;
+margin:0 0 5px
+}
+body .event-organizer .event-organizer-right span.label_data {
+display:block;
+width:100%;
+margin:0
+}
+body #loop_event_atteding_list .post .event_img {
+width:100%;
+max-width:none;
+margin-bottom:10px
+}
+body #loop_event_atteding_list .post .event_img img, body #loop_event_atteding_list.list .post .entry {
+width:100%
+}
+body #loop_event_atteding_list.list .post .entry .listing_rating, body #loop_event_atteding_list.list .post .entry h2 {
+float:none;
+width:100%
+}
+body #loop_event_atteding_list.list .post .entry .date {
+background:0 0;
+color:#000;
+width:100%;
+box-sizing:border-box;
+-moz-box-sizing:border-box;
+-ms-box-sizing:border-box;
+-o-box-sizing:border-box;
+-webkit-box-sizing:border-box;
+text-align:left;
+padding-left:10px;
+margin-bottom:10px
+}
+body #loop_event_atteding_list .post .entry .event-title {
+width:100%;
+margin-left:0
+}
+body #loop_event_atteding_list.list .post .entry .date span {
+display:inline
+}
+.widget_loop_taxonomy .post .fp_image {
+clear:both;
+width:100%;
+max-width:none;
+margin:0 0 10px
+}
+.widget_loop_taxonomy .post .fp_image img {
+width:100%
+}
+.widget_loop_taxonomy .post .fp_entry {
+width:100%;
+margin:0
+}
+.widget_loop_taxonomy.grid .widget_loop_taxonomy_wrap {
+margin-left:0
+}
+.widget_loop_taxonomy.grid .post {
+width:100%;
+border-bottom:1px solid rgba(0, 0, 0, .1);
+border-bottom:1px solid #ccc \0/;
+margin:0 0 10px
+}
+.widget_loop_taxonomy.grid .post:last-child {
+border:none
+}
+.author_price_details p {
+width:100%!important
+}
+.directory-single-page .view_counter, .event-single-page .view_counter {
+margin-top:6px
+}
+}
+@media only screen and (max-width:320px) {
+body .all_category_list_widget .category_list_wrap {
+margin-left:0
+}
+body .all_category_list_widget .category_list {
+width:100%;
+margin:10px 0
+}
+body .event_manager_tab #event_sorting {
+margin:0 0 5px
+}
+body ul.sorting_option li {
+width:100%;
+display:block;
+margin-right:0
+}
+article .entry-header .author_rating, body #loop_listing_archive.list .post .entry .listing_rating, body #loop_listing_taxonomy.list .post .entry .listing_rating {
+float:left;
+width:100%
+}
+#branding, #branding1 {
+width:72%
+}
+#site-title img, #site-title1 img {
+max-width:100%;
+width:100%
+}
+#site-description {
+font-size:14px
+}
+body.singular .pos_navigation .post_left, body.singular .pos_navigation .post_right {
+max-width:100%;
+width:100%
+}
+.pos_navigation .post_right {
+text-align:right
+}
+.pos_navigation .post_right i {
+display:none!important
+}
+body .pe_advsearch_form #toggle_postID {
+max-height:190px
+}
+}

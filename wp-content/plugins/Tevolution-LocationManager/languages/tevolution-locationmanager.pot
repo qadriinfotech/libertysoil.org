@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tevolution-LocationManager\n"
+"POT-Creation-Date: 2014-01-16 16:36+0530\n"
+"PO-Revision-Date: 2014-03-04 17:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: Templatic <upendra@templatic.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\directory5\\wp-content\\plugins"
+"\\Tevolution-LocationManager\n"
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:90
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/map/map-shortcodes/city_map_shortcode.php:136
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/map/map-shortcodes/current_city_map_shortcode.php:231
+msgid ""
+"<p>Your selected category do not have any records yet at your current "
+"location.</p>"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/google_map_widget.php:94
+msgid "Title or Keyword"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:250
+msgid "Disable"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:259
+msgid "Click"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/location_functions.php:437
+msgid "Select a city"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:19
+msgid "Default City"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:388
+msgid "Multi City"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:459
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:462
+msgid "Select Country"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:478
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:480
+msgid "Select State"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:500
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:502
+msgid "Select City"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:640
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:810
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:929
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/widget_functions.php:90
+msgid "All Countries"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:655
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:825
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:943
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/widget_functions.php:104
+msgid "All Regions"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:673
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:840
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:958
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/widget_functions.php:119
+msgid "All Cities"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:804
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:923
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:1094
+msgid "Location"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:855
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:973
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:1015
+msgid "My Nearest City"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_function.php:1096
+msgid "Loading..."
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/manage_locations.php:1579
+msgid "Categories"
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/map/locations_map.php:310
+msgid ""
+"Clicking the above \"Set Address on Map\" button, you can simply drag the "
+"pinpoint to locate the exact address on the map. "
+msgstr ""
+
+#: D:\wamp\www\edirectorymanager\wp-content\plugins\Tevolution-LocationManager/functions/map/map-shortcodes/map-shortcodes.php:92
+msgid "Pinpoint"
+msgstr ""
